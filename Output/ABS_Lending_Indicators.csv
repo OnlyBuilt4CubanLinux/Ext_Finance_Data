@@ -1,4 +1,1261 @@
 Date,location,lender_type,buyer_type,buyer_subtype,measure_type,number,value
+2019-06-01,ACT,all,investor,all,construction,0.0,0.0
+2019-06-01,ACT,all,investor,all,ext_refi,0.0,52600000.0
+2019-06-01,ACT,all,investor,all,int_refi,0.0,0.0
+2019-06-01,ACT,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,ACT,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,ACT,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,ACT,all,investor,all,renovations,0.0,0.0
+2019-06-01,ACT,all,investor,all,total_exc_refi,0.0,94400000.0
+2019-06-01,ACT,all,owner occupier,all,construction,49.0,21200000.0
+2019-06-01,ACT,all,owner occupier,all,ext_refi,263.0,110400000.0
+2019-06-01,ACT,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,ACT,all,owner occupier,all,purchase_existing,425.0,194300000.0
+2019-06-01,ACT,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,ACT,all,owner occupier,all,purchase_new,50.0,21800000.0
+2019-06-01,ACT,all,owner occupier,all,renovations,0.0,4200000.0
+2019-06-01,ACT,all,owner occupier,all,total_exc_refi,0.0,257700000.0
+2019-06-01,ACT,all,owner occupier,first home buyer,total_exc_refi,127.0,48100000.0
+2019-06-01,AUS,all,all,all,total_exc_refi,0.0,16412700000.0
+2019-06-01,AUS,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-06-01,AUS,all,investor,all,construction,0.0,0.0
+2019-06-01,AUS,all,investor,all,ext_refi,0.0,3513900000.0
+2019-06-01,AUS,all,investor,all,int_refi,0.0,0.0
+2019-06-01,AUS,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,AUS,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,AUS,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,AUS,all,investor,all,renovations,0.0,0.0
+2019-06-01,AUS,all,investor,all,total_exc_refi,0.0,4843300000.0
+2019-06-01,AUS,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-06-01,AUS,all,owner occupier,all,construction,3615.0,1492100000.0
+2019-06-01,AUS,all,owner occupier,all,ext_refi,11665.0,4857200000.0
+2019-06-01,AUS,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,AUS,all,owner occupier,all,purchase_existing,18527.0,8389200000.000001
+2019-06-01,AUS,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,AUS,all,owner occupier,all,purchase_new,1700.0,749300000.0
+2019-06-01,AUS,all,owner occupier,all,renovations,0.0,200000000.0
+2019-06-01,AUS,all,owner occupier,all,total_exc_refi,0.0,11569400000.0
+2019-06-01,AUS,all,owner occupier,first home buyer,total_exc_refi,8100.0,3110500000.0
+2019-06-01,AUS,major banks,all,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,major banks,investor,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,major banks,owner occupier,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,non-adis,all,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,non-adis,investor,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,non-adis,owner occupier,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,other adis,all,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,other adis,investor,all,total_exc_refi,0.0,0.0
+2019-06-01,AUS,other adis,owner occupier,all,total_exc_refi,0.0,0.0
+2019-06-01,NSW,all,investor,all,construction,0.0,0.0
+2019-06-01,NSW,all,investor,all,ext_refi,0.0,1538200000.0
+2019-06-01,NSW,all,investor,all,int_refi,0.0,0.0
+2019-06-01,NSW,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,NSW,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,NSW,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,NSW,all,investor,all,renovations,0.0,0.0
+2019-06-01,NSW,all,investor,all,total_exc_refi,0.0,2115699999.9999998
+2019-06-01,NSW,all,owner occupier,all,construction,678.0,300400000.0
+2019-06-01,NSW,all,owner occupier,all,ext_refi,3375.0,1685600000.0
+2019-06-01,NSW,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,NSW,all,owner occupier,all,purchase_existing,5113.0,2855900000.0
+2019-06-01,NSW,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,NSW,all,owner occupier,all,purchase_new,560.0,277700000.0
+2019-06-01,NSW,all,owner occupier,all,renovations,0.0,72900000.0
+2019-06-01,NSW,all,owner occupier,all,total_exc_refi,0.0,3672600000.0
+2019-06-01,NSW,all,owner occupier,first home buyer,total_exc_refi,1870.0,851100000.0
+2019-06-01,NT,all,investor,all,construction,0.0,0.0
+2019-06-01,NT,all,investor,all,ext_refi,0.0,13600000.0
+2019-06-01,NT,all,investor,all,int_refi,0.0,0.0
+2019-06-01,NT,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,NT,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,NT,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,NT,all,investor,all,renovations,0.0,0.0
+2019-06-01,NT,all,investor,all,total_exc_refi,0.0,9500000.0
+2019-06-01,NT,all,owner occupier,all,construction,29.0,12500000.0
+2019-06-01,NT,all,owner occupier,all,ext_refi,26.0,9300000.0
+2019-06-01,NT,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,NT,all,owner occupier,all,purchase_existing,127.0,44900000.0
+2019-06-01,NT,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,NT,all,owner occupier,all,purchase_new,6.0,3000000.0
+2019-06-01,NT,all,owner occupier,all,renovations,0.0,400000.0
+2019-06-01,NT,all,owner occupier,all,total_exc_refi,0.0,62100000.0
+2019-06-01,NT,all,owner occupier,first home buyer,total_exc_refi,71.0,22300000.0
+2019-06-01,QLD,all,investor,all,construction,0.0,0.0
+2019-06-01,QLD,all,investor,all,ext_refi,0.0,529900000.0
+2019-06-01,QLD,all,investor,all,int_refi,0.0,0.0
+2019-06-01,QLD,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,QLD,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,QLD,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,QLD,all,investor,all,renovations,0.0,0.0
+2019-06-01,QLD,all,investor,all,total_exc_refi,0.0,683900000.0
+2019-06-01,QLD,all,owner occupier,all,construction,615.0,261300000.0
+2019-06-01,QLD,all,owner occupier,all,ext_refi,1794.0,652800000.0
+2019-06-01,QLD,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,QLD,all,owner occupier,all,purchase_existing,3956.0,1568300000.0
+2019-06-01,QLD,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,QLD,all,owner occupier,all,purchase_new,213.0,91300000.0
+2019-06-01,QLD,all,owner occupier,all,renovations,0.0,32700000.000000004
+2019-06-01,QLD,all,owner occupier,all,total_exc_refi,0.0,2066500000.0
+2019-06-01,QLD,all,owner occupier,first home buyer,total_exc_refi,1503.0,525400000.0
+2019-06-01,SA,all,investor,all,construction,0.0,0.0
+2019-06-01,SA,all,investor,all,ext_refi,0.0,124400000.0
+2019-06-01,SA,all,investor,all,int_refi,0.0,0.0
+2019-06-01,SA,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,SA,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,SA,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,SA,all,investor,all,renovations,0.0,0.0
+2019-06-01,SA,all,investor,all,total_exc_refi,0.0,242400000.0
+2019-06-01,SA,all,owner occupier,all,construction,308.0,110000000.0
+2019-06-01,SA,all,owner occupier,all,ext_refi,944.0,302700000.0
+2019-06-01,SA,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,SA,all,owner occupier,all,purchase_existing,1482.0,512799999.99999994
+2019-06-01,SA,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,SA,all,owner occupier,all,purchase_new,122.0,40000000.0
+2019-06-01,SA,all,owner occupier,all,renovations,0.0,16100000.000000002
+2019-06-01,SA,all,owner occupier,all,total_exc_refi,0.0,714400000.0
+2019-06-01,SA,all,owner occupier,first home buyer,total_exc_refi,542.0,166400000.0
+2019-06-01,TAS,all,investor,all,construction,0.0,0.0
+2019-06-01,TAS,all,investor,all,ext_refi,0.0,24400000.0
+2019-06-01,TAS,all,investor,all,int_refi,0.0,0.0
+2019-06-01,TAS,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,TAS,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,TAS,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,TAS,all,investor,all,renovations,0.0,0.0
+2019-06-01,TAS,all,investor,all,total_exc_refi,0.0,54900000.0
+2019-06-01,TAS,all,owner occupier,all,construction,69.0,23300000.0
+2019-06-01,TAS,all,owner occupier,all,ext_refi,238.0,68800000.0
+2019-06-01,TAS,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,TAS,all,owner occupier,all,purchase_existing,505.0,146400000.0
+2019-06-01,TAS,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,TAS,all,owner occupier,all,purchase_new,25.0,9000000.0
+2019-06-01,TAS,all,owner occupier,all,renovations,0.0,4200000.0
+2019-06-01,TAS,all,owner occupier,all,total_exc_refi,0.0,194400000.0
+2019-06-01,TAS,all,owner occupier,first home buyer,total_exc_refi,171.0,52900000.0
+2019-06-01,VIC,all,investor,all,construction,0.0,0.0
+2019-06-01,VIC,all,investor,all,ext_refi,0.0,1041700000.0
+2019-06-01,VIC,all,investor,all,int_refi,0.0,0.0
+2019-06-01,VIC,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,VIC,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,VIC,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,VIC,all,investor,all,renovations,0.0,0.0
+2019-06-01,VIC,all,investor,all,total_exc_refi,0.0,1437600000.0
+2019-06-01,VIC,all,owner occupier,all,construction,1335.0,561000000.0
+2019-06-01,VIC,all,owner occupier,all,ext_refi,3999.0,1646500000.0
+2019-06-01,VIC,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,VIC,all,owner occupier,all,purchase_existing,5190.0,2402300000.0
+2019-06-01,VIC,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,VIC,all,owner occupier,all,purchase_new,597.0,263600000.00000003
+2019-06-01,VIC,all,owner occupier,all,renovations,0.0,62300000.0
+2019-06-01,VIC,all,owner occupier,all,total_exc_refi,0.0,3624300000.0
+2019-06-01,VIC,all,owner occupier,first home buyer,total_exc_refi,2752.0,1090600000.0
+2019-06-01,WA,all,investor,all,construction,0.0,0.0
+2019-06-01,WA,all,investor,all,ext_refi,0.0,189200000.0
+2019-06-01,WA,all,investor,all,int_refi,0.0,0.0
+2019-06-01,WA,all,investor,all,purchase_existing,0.0,0.0
+2019-06-01,WA,all,investor,all,purchase_land,0.0,0.0
+2019-06-01,WA,all,investor,all,purchase_new,0.0,0.0
+2019-06-01,WA,all,investor,all,renovations,0.0,0.0
+2019-06-01,WA,all,investor,all,total_exc_refi,0.0,204900000.0
+2019-06-01,WA,all,owner occupier,all,construction,531.0,202200000.0
+2019-06-01,WA,all,owner occupier,all,ext_refi,1025.0,381000000.0
+2019-06-01,WA,all,owner occupier,all,int_refi,0.0,0.0
+2019-06-01,WA,all,owner occupier,all,purchase_existing,1728.0,664300000.0
+2019-06-01,WA,all,owner occupier,all,purchase_land,0.0,0.0
+2019-06-01,WA,all,owner occupier,all,purchase_new,128.0,42800000.0
+2019-06-01,WA,all,owner occupier,all,renovations,0.0,7400000.0
+2019-06-01,WA,all,owner occupier,all,total_exc_refi,0.0,977300000.0
+2019-06-01,WA,all,owner occupier,first home buyer,total_exc_refi,1063.0,353500000.0
+2019-07-01,ACT,all,all,first home buyer,total_exc_refi,212.0,85200000.0
+2019-07-01,ACT,all,investor,all,construction,0.0,0.0
+2019-07-01,ACT,all,investor,all,ext_refi,132.0,60500000.0
+2019-07-01,ACT,all,investor,all,int_refi,134.0,54400000.0
+2019-07-01,ACT,all,investor,all,purchase_existing,158.0,68100000.0
+2019-07-01,ACT,all,investor,all,purchase_land,0.0,0.0
+2019-07-01,ACT,all,investor,all,purchase_new,0.0,0.0
+2019-07-01,ACT,all,investor,all,renovations,0.0,0.0
+2019-07-01,ACT,all,investor,all,total_exc_refi,259.0,108100000.0
+2019-07-01,ACT,all,investor,first home buyer,total_exc_refi,17.0,7900000.0
+2019-07-01,ACT,all,owner occupier,all,construction,75.0,34900000.0
+2019-07-01,ACT,all,owner occupier,all,ext_refi,325.0,144700000.0
+2019-07-01,ACT,all,owner occupier,all,int_refi,238.0,96300000.0
+2019-07-01,ACT,all,owner occupier,all,purchase_existing,515.0,231000000.0
+2019-07-01,ACT,all,owner occupier,all,purchase_land,0.0,0.0
+2019-07-01,ACT,all,owner occupier,all,purchase_new,80.0,36500000.0
+2019-07-01,ACT,all,owner occupier,all,renovations,0.0,0.0
+2019-07-01,ACT,all,owner occupier,all,total_exc_refi,731.0,317400000.0
+2019-07-01,ACT,all,owner occupier,first home buyer,total_exc_refi,195.0,77300000.0
+2019-07-01,AUS,all,all,all,total_exc_refi,0.0,17927400000.0
+2019-07-01,AUS,all,all,first home buyer,total_exc_refi,9598.0,3871800000.0
+2019-07-01,AUS,all,investor,all,construction,1162.0,490600000.0
+2019-07-01,AUS,all,investor,all,ext_refi,7160.0,3434000000.0
+2019-07-01,AUS,all,investor,all,int_refi,5852.0,2427300000.0
+2019-07-01,AUS,all,investor,all,purchase_existing,8191.0,3775800000.0
+2019-07-01,AUS,all,investor,all,purchase_land,1081.0,228600000.0
+2019-07-01,AUS,all,investor,all,purchase_new,1109.0,555400000.0
+2019-07-01,AUS,all,investor,all,renovations,778.0,144100000.0
+2019-07-01,AUS,all,investor,all,total_exc_refi,12321.0,5194500000.0
+2019-07-01,AUS,all,investor,first home buyer,total_exc_refi,609.0,270000000.0
+2019-07-01,AUS,all,non-resident,all,total,286.0,136300000.0
+2019-07-01,AUS,all,owner occupier,all,construction,3936.0,1587100000.0
+2019-07-01,AUS,all,owner occupier,all,ext_refi,13744.0,5650300000.0
+2019-07-01,AUS,all,owner occupier,all,int_refi,12444.0,4695400000.0
+2019-07-01,AUS,all,owner occupier,all,purchase_existing,20621.0,9397600000.0
+2019-07-01,AUS,all,owner occupier,all,purchase_land,2411.0,660600000.0
+2019-07-01,AUS,all,owner occupier,all,purchase_new,1883.0,855900000.0
+2019-07-01,AUS,all,owner occupier,all,renovations,1607.0,231600000.0
+2019-07-01,AUS,all,owner occupier,all,total_exc_refi,30458.0,12733000000.0
+2019-07-01,AUS,all,owner occupier,first home buyer,total_exc_refi,8989.0,3601900000.0
+2019-07-01,AUS,major banks,all,all,total_exc_refi,0.0,13083600000.0
+2019-07-01,AUS,major banks,investor,all,total_exc_refi,0.0,4023300000.0
+2019-07-01,AUS,major banks,owner occupier,all,total_exc_refi,0.0,9060300000.0
+2019-07-01,AUS,non-adis,all,all,total_exc_refi,0.0,702100000.0
+2019-07-01,AUS,non-adis,investor,all,total_exc_refi,0.0,213500000.0
+2019-07-01,AUS,non-adis,owner occupier,all,total_exc_refi,0.0,488600000.0
+2019-07-01,AUS,other adis,all,all,total_exc_refi,0.0,4141700000.0
+2019-07-01,AUS,other adis,investor,all,total_exc_refi,0.0,957600000.0
+2019-07-01,AUS,other adis,owner occupier,all,total_exc_refi,0.0,3184100000.0
+2019-07-01,NSW,all,all,first home buyer,total_exc_refi,2541.0,1217800000.0
+2019-07-01,NSW,all,investor,all,construction,318.0,142800000.0
+2019-07-01,NSW,all,investor,all,ext_refi,2497.0,1450200000.0
+2019-07-01,NSW,all,investor,all,int_refi,1936.0,949800000.0
+2019-07-01,NSW,all,investor,all,purchase_existing,2961.0,1634800000.0
+2019-07-01,NSW,all,investor,all,purchase_land,306.0,64700000.0
+2019-07-01,NSW,all,investor,all,purchase_new,522.0,311800000.0
+2019-07-01,NSW,all,investor,all,renovations,252.0,59900000.0
+2019-07-01,NSW,all,investor,all,total_exc_refi,4359.0,2214000000.0
+2019-07-01,NSW,all,investor,first home buyer,total_exc_refi,261.0,135200000.0
+2019-07-01,NSW,all,owner occupier,all,construction,795.0,351200000.0
+2019-07-01,NSW,all,owner occupier,all,ext_refi,3951.0,1948200000.0
+2019-07-01,NSW,all,owner occupier,all,int_refi,3589.0,1593600000.0
+2019-07-01,NSW,all,owner occupier,all,purchase_existing,5749.0,3181400000.0
+2019-07-01,NSW,all,owner occupier,all,purchase_land,529.0,164600000.0
+2019-07-01,NSW,all,owner occupier,all,purchase_new,702.0,371800000.0
+2019-07-01,NSW,all,owner occupier,all,renovations,557.0,79700000.0
+2019-07-01,NSW,all,owner occupier,all,total_exc_refi,8332.0,4148600000.0000005
+2019-07-01,NSW,all,owner occupier,first home buyer,total_exc_refi,2280.0,1082600000.0
+2019-07-01,NT,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-07-01,NT,all,investor,all,construction,0.0,0.0
+2019-07-01,NT,all,investor,all,ext_refi,31.0,13700000.0
+2019-07-01,NT,all,investor,all,int_refi,37.0,14800000.0
+2019-07-01,NT,all,investor,all,purchase_existing,27.0,10700000.0
+2019-07-01,NT,all,investor,all,purchase_land,0.0,0.0
+2019-07-01,NT,all,investor,all,purchase_new,0.0,0.0
+2019-07-01,NT,all,investor,all,renovations,0.0,0.0
+2019-07-01,NT,all,investor,all,total_exc_refi,39.0,11400000.0
+2019-07-01,NT,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-07-01,NT,all,owner occupier,all,construction,27.0,15000000.0
+2019-07-01,NT,all,owner occupier,all,ext_refi,42.0,12500000.0
+2019-07-01,NT,all,owner occupier,all,int_refi,59.0,17800000.0
+2019-07-01,NT,all,owner occupier,all,purchase_existing,137.0,46700000.0
+2019-07-01,NT,all,owner occupier,all,purchase_land,0.0,0.0
+2019-07-01,NT,all,owner occupier,all,purchase_new,7.0,2100000.0
+2019-07-01,NT,all,owner occupier,all,renovations,0.0,0.0
+2019-07-01,NT,all,owner occupier,all,total_exc_refi,188.0,66800000.0
+2019-07-01,NT,all,owner occupier,first home buyer,total_exc_refi,72.0,25600000.0
+2019-07-01,QLD,all,all,first home buyer,total_exc_refi,1773.0,622200000.0
+2019-07-01,QLD,all,investor,all,construction,222.0,90400000.0
+2019-07-01,QLD,all,investor,all,ext_refi,1206.0,460400000.0
+2019-07-01,QLD,all,investor,all,int_refi,1144.0,403900000.0
+2019-07-01,QLD,all,investor,all,purchase_existing,1420.0,535900000.0
+2019-07-01,QLD,all,investor,all,purchase_land,146.0,22600000.0
+2019-07-01,QLD,all,investor,all,purchase_new,164.0,60900000.0
+2019-07-01,QLD,all,investor,all,renovations,146.0,23600000.0
+2019-07-01,QLD,all,investor,all,total_exc_refi,2098.0,733300000.0
+2019-07-01,QLD,all,investor,first home buyer,total_exc_refi,92.0,31100000.0
+2019-07-01,QLD,all,owner occupier,all,construction,658.0,269100000.0
+2019-07-01,QLD,all,owner occupier,all,ext_refi,2202.0,800700000.0
+2019-07-01,QLD,all,owner occupier,all,int_refi,2404.0,811400000.0
+2019-07-01,QLD,all,owner occupier,all,purchase_existing,4477.0,1748700000.0
+2019-07-01,QLD,all,owner occupier,all,purchase_land,317.0,88800000.0
+2019-07-01,QLD,all,owner occupier,all,purchase_new,230.0,89700000.0
+2019-07-01,QLD,all,owner occupier,all,renovations,319.0,36300000.0
+2019-07-01,QLD,all,owner occupier,all,total_exc_refi,6001.0,2232600000.0
+2019-07-01,QLD,all,owner occupier,first home buyer,total_exc_refi,1681.0,591100000.0
+2019-07-01,SA,all,all,first home buyer,total_exc_refi,518.0,170900000.0
+2019-07-01,SA,all,investor,all,construction,73.0,27500000.0
+2019-07-01,SA,all,investor,all,ext_refi,376.0,121700000.0
+2019-07-01,SA,all,investor,all,int_refi,318.0,93600000.0
+2019-07-01,SA,all,investor,all,purchase_existing,542.0,182700000.0
+2019-07-01,SA,all,investor,all,purchase_land,36.0,6900000.0
+2019-07-01,SA,all,investor,all,purchase_new,39.0,15600000.0
+2019-07-01,SA,all,investor,all,renovations,42.0,7200000.0
+2019-07-01,SA,all,investor,all,total_exc_refi,732.0,240000000.0
+2019-07-01,SA,all,investor,first home buyer,total_exc_refi,26.0,8600000.0
+2019-07-01,SA,all,owner occupier,all,construction,302.0,108100000.0
+2019-07-01,SA,all,owner occupier,all,ext_refi,1052.0,339400000.0
+2019-07-01,SA,all,owner occupier,all,int_refi,885.0,261200000.0
+2019-07-01,SA,all,owner occupier,all,purchase_existing,1494.0,510400000.0
+2019-07-01,SA,all,owner occupier,all,purchase_land,161.0,33800000.0
+2019-07-01,SA,all,owner occupier,all,purchase_new,98.0,32400000.0
+2019-07-01,SA,all,owner occupier,all,renovations,126.0,20800000.0
+2019-07-01,SA,all,owner occupier,all,total_exc_refi,2181.0,705500000.0
+2019-07-01,SA,all,owner occupier,first home buyer,total_exc_refi,492.0,162400000.0
+2019-07-01,TAS,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-07-01,TAS,all,investor,all,construction,11.0,3000000.0
+2019-07-01,TAS,all,investor,all,ext_refi,108.0,30900000.0
+2019-07-01,TAS,all,investor,all,int_refi,96.0,23700000.0
+2019-07-01,TAS,all,investor,all,purchase_existing,200.0,61100000.0
+2019-07-01,TAS,all,investor,all,purchase_land,20.0,1400000.0
+2019-07-01,TAS,all,investor,all,purchase_new,14.0,4700000.0
+2019-07-01,TAS,all,investor,all,renovations,23.0,2600000.0
+2019-07-01,TAS,all,investor,all,total_exc_refi,268.0,72800000.0
+2019-07-01,TAS,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-07-01,TAS,all,owner occupier,all,construction,100.0,32600000.0
+2019-07-01,TAS,all,owner occupier,all,ext_refi,291.0,80800000.0
+2019-07-01,TAS,all,owner occupier,all,int_refi,345.0,85600000.0
+2019-07-01,TAS,all,owner occupier,all,purchase_existing,535.0,160000000.0
+2019-07-01,TAS,all,owner occupier,all,purchase_land,81.0,14100000.0
+2019-07-01,TAS,all,owner occupier,all,purchase_new,21.0,7000000.0
+2019-07-01,TAS,all,owner occupier,all,renovations,40.0,3300000.0
+2019-07-01,TAS,all,owner occupier,all,total_exc_refi,777.0,217100000.0
+2019-07-01,TAS,all,owner occupier,first home buyer,total_exc_refi,135.0,42800000.0
+2019-07-01,VIC,all,all,first home buyer,total_exc_refi,3122.0,1289700000.0
+2019-07-01,VIC,all,investor,all,construction,468.0,192300000.0
+2019-07-01,VIC,all,investor,all,ext_refi,2338.0,1104700000.0
+2019-07-01,VIC,all,investor,all,int_refi,1674.0,692800000.0
+2019-07-01,VIC,all,investor,all,purchase_existing,2439.0,1110000000.0
+2019-07-01,VIC,all,investor,all,purchase_land,486.0,114100000.0
+2019-07-01,VIC,all,investor,all,purchase_new,301.0,133100000.0
+2019-07-01,VIC,all,investor,all,renovations,231.0,42600000.0
+2019-07-01,VIC,all,investor,all,total_exc_refi,3925.0,1592200000.0
+2019-07-01,VIC,all,investor,first home buyer,total_exc_refi,188.0,79000000.0
+2019-07-01,VIC,all,owner occupier,all,construction,1423.0,571900000.0
+2019-07-01,VIC,all,owner occupier,all,ext_refi,4648.0,1886600000.0
+2019-07-01,VIC,all,owner occupier,all,int_refi,3777.0,1444900000.0
+2019-07-01,VIC,all,owner occupier,all,purchase_existing,5795.0,2760600000.0
+2019-07-01,VIC,all,owner occupier,all,purchase_land,1078.0,284200000.0
+2019-07-01,VIC,all,owner occupier,all,purchase_new,612.0,267500000.0
+2019-07-01,VIC,all,owner occupier,all,renovations,412.0,72900000.0
+2019-07-01,VIC,all,owner occupier,all,total_exc_refi,9320.0,3957000000.0
+2019-07-01,VIC,all,owner occupier,first home buyer,total_exc_refi,2934.0,1210700000.0
+2019-07-01,WA,all,all,first home buyer,total_exc_refi,1219.0,416500000.0
+2019-07-01,WA,all,investor,all,construction,48.0,20100000.0
+2019-07-01,WA,all,investor,all,ext_refi,472.0,192000000.0
+2019-07-01,WA,all,investor,all,int_refi,513.0,194300000.0
+2019-07-01,WA,all,investor,all,purchase_existing,444.0,172400000.0
+2019-07-01,WA,all,investor,all,purchase_land,53.0,11000000.0
+2019-07-01,WA,all,investor,all,purchase_new,29.0,12100000.0
+2019-07-01,WA,all,investor,all,renovations,67.0,7200000.0
+2019-07-01,WA,all,investor,all,total_exc_refi,641.0,222800000.0
+2019-07-01,WA,all,investor,first home buyer,total_exc_refi,19.0,7100000.0
+2019-07-01,WA,all,owner occupier,all,construction,556.0,204300000.0
+2019-07-01,WA,all,owner occupier,all,ext_refi,1233.0,437500000.0
+2019-07-01,WA,all,owner occupier,all,int_refi,1147.0,384600000.0
+2019-07-01,WA,all,owner occupier,all,purchase_existing,1919.0,758800000.0
+2019-07-01,WA,all,owner occupier,all,purchase_land,210.0,65400000.00000001
+2019-07-01,WA,all,owner occupier,all,purchase_new,133.0,49000000.0
+2019-07-01,WA,all,owner occupier,all,renovations,110.0,10400000.0
+2019-07-01,WA,all,owner occupier,all,total_exc_refi,2928.0,1087900000.0
+2019-07-01,WA,all,owner occupier,first home buyer,total_exc_refi,1200.0,409400000.0
+2019-08-01,ACT,all,all,first home buyer,total_exc_refi,206.0,89900000.0
+2019-08-01,ACT,all,investor,all,construction,0.0,0.0
+2019-08-01,ACT,all,investor,all,ext_refi,153.0,67200000.0
+2019-08-01,ACT,all,investor,all,int_refi,126.0,50300000.0
+2019-08-01,ACT,all,investor,all,purchase_existing,147.0,71300000.0
+2019-08-01,ACT,all,investor,all,purchase_land,0.0,0.0
+2019-08-01,ACT,all,investor,all,purchase_new,0.0,0.0
+2019-08-01,ACT,all,investor,all,renovations,18.0,1600000.0
+2019-08-01,ACT,all,investor,all,total_exc_refi,233.0,107600000.0
+2019-08-01,ACT,all,investor,first home buyer,total_exc_refi,12.0,7300000.0
+2019-08-01,ACT,all,owner occupier,all,construction,67.0,27200000.0
+2019-08-01,ACT,all,owner occupier,all,ext_refi,299.0,128300000.00000001
+2019-08-01,ACT,all,owner occupier,all,int_refi,227.0,79100000.0
+2019-08-01,ACT,all,owner occupier,all,purchase_existing,495.0,232000000.0
+2019-08-01,ACT,all,owner occupier,all,purchase_land,0.0,0.0
+2019-08-01,ACT,all,owner occupier,all,purchase_new,80.0,35800000.0
+2019-08-01,ACT,all,owner occupier,all,renovations,0.0,0.0
+2019-08-01,ACT,all,owner occupier,all,total_exc_refi,701.0,307200000.0
+2019-08-01,ACT,all,owner occupier,first home buyer,total_exc_refi,194.0,82600000.0
+2019-08-01,AUS,all,all,all,total_exc_refi,0.0,18078600000.0
+2019-08-01,AUS,all,all,first home buyer,total_exc_refi,9663.0,3938900000.0
+2019-08-01,AUS,all,investor,all,construction,1207.0,560200000.0
+2019-08-01,AUS,all,investor,all,ext_refi,7626.0,3546700000.0
+2019-08-01,AUS,all,investor,all,int_refi,6036.0,2621400000.0
+2019-08-01,AUS,all,investor,all,purchase_existing,8250.0,3897100000.0
+2019-08-01,AUS,all,investor,all,purchase_land,709.0,203500000.0
+2019-08-01,AUS,all,investor,all,purchase_new,1101.0,565500000.0
+2019-08-01,AUS,all,investor,all,renovations,794.0,131699999.99999999
+2019-08-01,AUS,all,investor,all,total_exc_refi,12061.0,5358000000.0
+2019-08-01,AUS,all,investor,first home buyer,total_exc_refi,585.0,269200000.0
+2019-08-01,AUS,all,non-resident,all,total,300.0,178500000.0
+2019-08-01,AUS,all,owner occupier,all,construction,3658.0,1476900000.0
+2019-08-01,AUS,all,owner occupier,all,ext_refi,13820.0,5908300000.0
+2019-08-01,AUS,all,owner occupier,all,int_refi,12877.0,4762400000.0
+2019-08-01,AUS,all,owner occupier,all,purchase_existing,20032.0,9336400000.0
+2019-08-01,AUS,all,owner occupier,all,purchase_land,2411.0,691900000.0
+2019-08-01,AUS,all,owner occupier,all,purchase_new,2076.0,1006500000.0
+2019-08-01,AUS,all,owner occupier,all,renovations,1730.0,208700000.0
+2019-08-01,AUS,all,owner occupier,all,total_exc_refi,29907.0,12720600000.0
+2019-08-01,AUS,all,owner occupier,first home buyer,total_exc_refi,9078.0,3669700000.0
+2019-08-01,AUS,major banks,all,all,total_exc_refi,0.0,12725700000.0
+2019-08-01,AUS,major banks,investor,all,total_exc_refi,0.0,3883200000.0
+2019-08-01,AUS,major banks,owner occupier,all,total_exc_refi,0.0,8842500000.0
+2019-08-01,AUS,non-adis,all,all,total_exc_refi,0.0,952900000.0
+2019-08-01,AUS,non-adis,investor,all,total_exc_refi,0.0,403900000.0
+2019-08-01,AUS,non-adis,owner occupier,all,total_exc_refi,0.0,549000000.0
+2019-08-01,AUS,other adis,all,all,total_exc_refi,0.0,4400000000.0
+2019-08-01,AUS,other adis,investor,all,total_exc_refi,0.0,1070900000.0000001
+2019-08-01,AUS,other adis,owner occupier,all,total_exc_refi,0.0,3329100000.0
+2019-08-01,NSW,all,all,first home buyer,total_exc_refi,2498.0,1228100000.0
+2019-08-01,NSW,all,investor,all,construction,362.0,210700000.0
+2019-08-01,NSW,all,investor,all,ext_refi,2559.0,1420700000.0
+2019-08-01,NSW,all,investor,all,int_refi,2050.0,1071800000.0
+2019-08-01,NSW,all,investor,all,purchase_existing,2887.0,1625000000.0
+2019-08-01,NSW,all,investor,all,purchase_land,178.0,65599999.99999999
+2019-08-01,NSW,all,investor,all,purchase_new,485.0,296700000.0
+2019-08-01,NSW,all,investor,all,renovations,228.0,49300000.0
+2019-08-01,NSW,all,investor,all,total_exc_refi,4140.0,2247300000.0
+2019-08-01,NSW,all,investor,first home buyer,total_exc_refi,218.0,120000000.0
+2019-08-01,NSW,all,owner occupier,all,construction,734.0,331700000.0
+2019-08-01,NSW,all,owner occupier,all,ext_refi,4096.0,2081300000.0000002
+2019-08-01,NSW,all,owner occupier,all,int_refi,3751.0,1613800000.0
+2019-08-01,NSW,all,owner occupier,all,purchase_existing,5587.0,3146300000.0
+2019-08-01,NSW,all,owner occupier,all,purchase_land,588.0,194600000.0
+2019-08-01,NSW,all,owner occupier,all,purchase_new,691.0,389200000.0
+2019-08-01,NSW,all,owner occupier,all,renovations,747.0,73900000.0
+2019-08-01,NSW,all,owner occupier,all,total_exc_refi,8347.0,4135600000.0000005
+2019-08-01,NSW,all,owner occupier,first home buyer,total_exc_refi,2280.0,1108200000.0
+2019-08-01,NT,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-08-01,NT,all,investor,all,construction,0.0,0.0
+2019-08-01,NT,all,investor,all,ext_refi,19.0,6500000.0
+2019-08-01,NT,all,investor,all,int_refi,49.0,23700000.0
+2019-08-01,NT,all,investor,all,purchase_existing,23.0,6100000.0
+2019-08-01,NT,all,investor,all,purchase_land,0.0,0.0
+2019-08-01,NT,all,investor,all,purchase_new,0.0,0.0
+2019-08-01,NT,all,investor,all,renovations,7.0,500000.0
+2019-08-01,NT,all,investor,all,total_exc_refi,34.0,7300000.0
+2019-08-01,NT,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-08-01,NT,all,owner occupier,all,construction,23.0,9500000.0
+2019-08-01,NT,all,owner occupier,all,ext_refi,40.0,14200000.0
+2019-08-01,NT,all,owner occupier,all,int_refi,50.0,13600000.0
+2019-08-01,NT,all,owner occupier,all,purchase_existing,113.0,39900000.0
+2019-08-01,NT,all,owner occupier,all,purchase_land,0.0,0.0
+2019-08-01,NT,all,owner occupier,all,purchase_new,5.0,1100000.0
+2019-08-01,NT,all,owner occupier,all,renovations,0.0,0.0
+2019-08-01,NT,all,owner occupier,all,total_exc_refi,150.0,51900000.0
+2019-08-01,NT,all,owner occupier,first home buyer,total_exc_refi,70.0,24500000.0
+2019-08-01,QLD,all,all,first home buyer,total_exc_refi,1796.0,645500000.0
+2019-08-01,QLD,all,investor,all,construction,249.0,94000000.0
+2019-08-01,QLD,all,investor,all,ext_refi,1454.0,570800000.0
+2019-08-01,QLD,all,investor,all,int_refi,1204.0,447800000.0
+2019-08-01,QLD,all,investor,all,purchase_existing,1518.0,585800000.0
+2019-08-01,QLD,all,investor,all,purchase_land,89.0,28200000.0
+2019-08-01,QLD,all,investor,all,purchase_new,109.0,43900000.0
+2019-08-01,QLD,all,investor,all,renovations,162.0,22400000.0
+2019-08-01,QLD,all,investor,all,total_exc_refi,2127.0,774400000.0
+2019-08-01,QLD,all,investor,first home buyer,total_exc_refi,101.0,35800000.0
+2019-08-01,QLD,all,owner occupier,all,construction,622.0,254000000.0
+2019-08-01,QLD,all,owner occupier,all,ext_refi,2110.0,785500000.0
+2019-08-01,QLD,all,owner occupier,all,int_refi,2526.0,816900000.0
+2019-08-01,QLD,all,owner occupier,all,purchase_existing,4529.0,1823000000.0
+2019-08-01,QLD,all,owner occupier,all,purchase_land,386.0,105900000.0
+2019-08-01,QLD,all,owner occupier,all,purchase_new,272.0,110400000.0
+2019-08-01,QLD,all,owner occupier,all,renovations,289.0,34400000.0
+2019-08-01,QLD,all,owner occupier,all,total_exc_refi,6098.0,2327700000.0
+2019-08-01,QLD,all,owner occupier,first home buyer,total_exc_refi,1695.0,609700000.0
+2019-08-01,SA,all,all,first home buyer,total_exc_refi,528.0,169500000.0
+2019-08-01,SA,all,investor,all,construction,71.0,25300000.0
+2019-08-01,SA,all,investor,all,ext_refi,442.0,148700000.0
+2019-08-01,SA,all,investor,all,int_refi,328.0,100000000.0
+2019-08-01,SA,all,investor,all,purchase_existing,593.0,210800000.0
+2019-08-01,SA,all,investor,all,purchase_land,18.0,3200000.0
+2019-08-01,SA,all,investor,all,purchase_new,32.0,13100000.0
+2019-08-01,SA,all,investor,all,renovations,43.0,5200000.0
+2019-08-01,SA,all,investor,all,total_exc_refi,757.0,257700000.0
+2019-08-01,SA,all,investor,first home buyer,total_exc_refi,32.0,12200000.0
+2019-08-01,SA,all,owner occupier,all,construction,310.0,112800000.0
+2019-08-01,SA,all,owner occupier,all,ext_refi,1142.0,381100000.0
+2019-08-01,SA,all,owner occupier,all,int_refi,919.0,263500000.0
+2019-08-01,SA,all,owner occupier,all,purchase_existing,1498.0,527500000.0
+2019-08-01,SA,all,owner occupier,all,purchase_land,160.0,36200000.0
+2019-08-01,SA,all,owner occupier,all,purchase_new,94.0,32500000.0
+2019-08-01,SA,all,owner occupier,all,renovations,118.0,19100000.0
+2019-08-01,SA,all,owner occupier,all,total_exc_refi,2180.0,728100000.0
+2019-08-01,SA,all,owner occupier,first home buyer,total_exc_refi,496.0,157300000.0
+2019-08-01,TAS,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-08-01,TAS,all,investor,all,construction,12.0,4900000.0
+2019-08-01,TAS,all,investor,all,ext_refi,95.0,29400000.0
+2019-08-01,TAS,all,investor,all,int_refi,65.0,17300000.0
+2019-08-01,TAS,all,investor,all,purchase_existing,204.0,65800000.0
+2019-08-01,TAS,all,investor,all,purchase_land,9.0,1900000.0
+2019-08-01,TAS,all,investor,all,purchase_new,8.0,2500000.0
+2019-08-01,TAS,all,investor,all,renovations,18.0,3200000.0
+2019-08-01,TAS,all,investor,all,total_exc_refi,251.0,78300000.0
+2019-08-01,TAS,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-08-01,TAS,all,owner occupier,all,construction,95.0,33700000.0
+2019-08-01,TAS,all,owner occupier,all,ext_refi,307.0,87200000.0
+2019-08-01,TAS,all,owner occupier,all,int_refi,360.0,91100000.0
+2019-08-01,TAS,all,owner occupier,all,purchase_existing,491.0,146000000.0
+2019-08-01,TAS,all,owner occupier,all,purchase_land,72.0,12100000.0
+2019-08-01,TAS,all,owner occupier,all,purchase_new,36.0,12700000.0
+2019-08-01,TAS,all,owner occupier,all,renovations,57.0,5600000.0
+2019-08-01,TAS,all,owner occupier,all,total_exc_refi,751.0,210000000.0
+2019-08-01,TAS,all,owner occupier,first home buyer,total_exc_refi,187.0,53100000.0
+2019-08-01,VIC,all,all,first home buyer,total_exc_refi,3113.0,1291900000.0
+2019-08-01,VIC,all,investor,all,construction,433.0,186500000.0
+2019-08-01,VIC,all,investor,all,ext_refi,2401.0,1102700000.0
+2019-08-01,VIC,all,investor,all,int_refi,1736.0,724100000.0
+2019-08-01,VIC,all,investor,all,purchase_existing,2410.0,1148500000.0
+2019-08-01,VIC,all,investor,all,purchase_land,367.0,89100000.0
+2019-08-01,VIC,all,investor,all,purchase_new,395.0,180800000.0
+2019-08-01,VIC,all,investor,all,renovations,243.0,42400000.0
+2019-08-01,VIC,all,investor,all,total_exc_refi,3848.0,1647200000.0
+2019-08-01,VIC,all,investor,first home buyer,total_exc_refi,159.0,69500000.0
+2019-08-01,VIC,all,owner occupier,all,construction,1260.0,506700000.0
+2019-08-01,VIC,all,owner occupier,all,ext_refi,4659.0,1974000000.0
+2019-08-01,VIC,all,owner occupier,all,int_refi,3853.0,1468600000.0
+2019-08-01,VIC,all,owner occupier,all,purchase_existing,5381.0,2652500000.0
+2019-08-01,VIC,all,owner occupier,all,purchase_land,975.0,266100000.00000003
+2019-08-01,VIC,all,owner occupier,all,purchase_new,766.0,375600000.0
+2019-08-01,VIC,all,owner occupier,all,renovations,373.0,59800000.0
+2019-08-01,VIC,all,owner occupier,all,total_exc_refi,8755.0,3860700000.0
+2019-08-01,VIC,all,owner occupier,first home buyer,total_exc_refi,2954.0,1222400000.0
+2019-08-01,WA,all,all,first home buyer,total_exc_refi,1248.0,427000000.0
+2019-08-01,WA,all,investor,all,construction,58.0,24200000.0
+2019-08-01,WA,all,investor,all,ext_refi,503.0,200800000.0
+2019-08-01,WA,all,investor,all,int_refi,478.0,186400000.0
+2019-08-01,WA,all,investor,all,purchase_existing,468.0,183800000.0
+2019-08-01,WA,all,investor,all,purchase_land,37.0,12100000.0
+2019-08-01,WA,all,investor,all,purchase_new,33.0,11100000.0
+2019-08-01,WA,all,investor,all,renovations,75.0,7000000.0
+2019-08-01,WA,all,investor,all,total_exc_refi,671.0,238100000.0
+2019-08-01,WA,all,investor,first home buyer,total_exc_refi,46.0,15000000.0
+2019-08-01,WA,all,owner occupier,all,construction,547.0,201300000.0
+2019-08-01,WA,all,owner occupier,all,ext_refi,1167.0,456600000.0
+2019-08-01,WA,all,owner occupier,all,int_refi,1191.0,415900000.0
+2019-08-01,WA,all,owner occupier,all,purchase_existing,1938.0,769400000.0
+2019-08-01,WA,all,owner occupier,all,purchase_land,198.0,68100000.0
+2019-08-01,WA,all,owner occupier,all,purchase_new,132.0,49200000.0
+2019-08-01,WA,all,owner occupier,all,renovations,110.0,11200000.0
+2019-08-01,WA,all,owner occupier,all,total_exc_refi,2925.0,1099200000.0
+2019-08-01,WA,all,owner occupier,first home buyer,total_exc_refi,1202.0,412000000.0
+2019-09-01,ACT,all,all,first home buyer,total_exc_refi,220.0,95300000.0
+2019-09-01,ACT,all,investor,all,construction,0.0,0.0
+2019-09-01,ACT,all,investor,all,ext_refi,141.0,63300000.0
+2019-09-01,ACT,all,investor,all,int_refi,107.0,45600000.0
+2019-09-01,ACT,all,investor,all,purchase_existing,143.0,64300000.0
+2019-09-01,ACT,all,investor,all,purchase_land,0.0,0.0
+2019-09-01,ACT,all,investor,all,purchase_new,0.0,0.0
+2019-09-01,ACT,all,investor,all,renovations,0.0,0.0
+2019-09-01,ACT,all,investor,all,total_exc_refi,210.0,85200000.0
+2019-09-01,ACT,all,investor,first home buyer,total_exc_refi,10.0,3900000.0
+2019-09-01,ACT,all,owner occupier,all,construction,51.0,19800000.0
+2019-09-01,ACT,all,owner occupier,all,ext_refi,352.0,148600000.0
+2019-09-01,ACT,all,owner occupier,all,int_refi,218.0,86000000.0
+2019-09-01,ACT,all,owner occupier,all,purchase_existing,498.0,229700000.0
+2019-09-01,ACT,all,owner occupier,all,purchase_land,24.0,9200000.0
+2019-09-01,ACT,all,owner occupier,all,purchase_new,50.0,22800000.0
+2019-09-01,ACT,all,owner occupier,all,renovations,30.0,3700000.0
+2019-09-01,ACT,all,owner occupier,all,total_exc_refi,653.0,285200000.0
+2019-09-01,ACT,all,owner occupier,first home buyer,total_exc_refi,210.0,91400000.0
+2019-09-01,AUS,all,all,all,total_exc_refi,0.0,17464700000.0
+2019-09-01,AUS,all,all,first home buyer,total_exc_refi,9389.0,3829800000.0
+2019-09-01,AUS,all,investor,all,construction,1078.0,484900000.0
+2019-09-01,AUS,all,investor,all,ext_refi,7615.0,3709800000.0
+2019-09-01,AUS,all,investor,all,int_refi,5728.0,2385700000.0
+2019-09-01,AUS,all,investor,all,purchase_existing,7670.0,3645600000.0
+2019-09-01,AUS,all,investor,all,purchase_land,694.0,198700000.0
+2019-09-01,AUS,all,investor,all,purchase_new,1030.0,508400000.0
+2019-09-01,AUS,all,investor,all,renovations,757.0,101200000.0
+2019-09-01,AUS,all,investor,all,total_exc_refi,11229.0,4938800000.0
+2019-09-01,AUS,all,investor,first home buyer,total_exc_refi,502.0,236000000.0
+2019-09-01,AUS,all,non-resident,all,total,283.0,141900000.0
+2019-09-01,AUS,all,owner occupier,all,construction,3426.0,1448300000.0
+2019-09-01,AUS,all,owner occupier,all,ext_refi,13911.0,6189000000.0
+2019-09-01,AUS,all,owner occupier,all,int_refi,11723.0,4264800000.0
+2019-09-01,AUS,all,owner occupier,all,purchase_existing,19433.0,9197000000.0
+2019-09-01,AUS,all,owner occupier,all,purchase_land,2277.0,655600000.0
+2019-09-01,AUS,all,owner occupier,all,purchase_new,2085.0,1013500000.0
+2019-09-01,AUS,all,owner occupier,all,renovations,1431.0,211500000.0
+2019-09-01,AUS,all,owner occupier,all,total_exc_refi,28652.0,12525900000.0
+2019-09-01,AUS,all,owner occupier,first home buyer,total_exc_refi,8887.0,3593800000.0
+2019-09-01,AUS,major banks,all,all,total_exc_refi,0.0,12368200000.0
+2019-09-01,AUS,major banks,investor,all,total_exc_refi,0.0,3628300000.0
+2019-09-01,AUS,major banks,owner occupier,all,total_exc_refi,0.0,8739900000.0
+2019-09-01,AUS,non-adis,all,all,total_exc_refi,0.0,792900000.0
+2019-09-01,AUS,non-adis,investor,all,total_exc_refi,0.0,250000000.0
+2019-09-01,AUS,non-adis,owner occupier,all,total_exc_refi,0.0,542900000.0
+2019-09-01,AUS,other adis,all,all,total_exc_refi,0.0,4303600000.0
+2019-09-01,AUS,other adis,investor,all,total_exc_refi,0.0,1060400000.0000001
+2019-09-01,AUS,other adis,owner occupier,all,total_exc_refi,0.0,3243200000.0
+2019-09-01,NSW,all,all,first home buyer,total_exc_refi,2434.0,1193900000.0
+2019-09-01,NSW,all,investor,all,construction,286.0,148900000.0
+2019-09-01,NSW,all,investor,all,ext_refi,2677.0,1564200000.0
+2019-09-01,NSW,all,investor,all,int_refi,1942.0,939400000.0
+2019-09-01,NSW,all,investor,all,purchase_existing,2695.0,1544600000.0
+2019-09-01,NSW,all,investor,all,purchase_land,218.0,71800000.0
+2019-09-01,NSW,all,investor,all,purchase_new,448.0,263300000.0
+2019-09-01,NSW,all,investor,all,renovations,237.0,40200000.0
+2019-09-01,NSW,all,investor,all,total_exc_refi,3884.0,2068800000.0000002
+2019-09-01,NSW,all,investor,first home buyer,total_exc_refi,224.0,122700000.0
+2019-09-01,NSW,all,owner occupier,all,construction,725.0,332300000.0
+2019-09-01,NSW,all,owner occupier,all,ext_refi,4324.0,2289300000.0
+2019-09-01,NSW,all,owner occupier,all,int_refi,3484.0,1452000000.0
+2019-09-01,NSW,all,owner occupier,all,purchase_existing,5428.0,3172100000.0
+2019-09-01,NSW,all,owner occupier,all,purchase_land,567.0,192600000.0
+2019-09-01,NSW,all,owner occupier,all,purchase_new,663.0,367800000.0
+2019-09-01,NSW,all,owner occupier,all,renovations,512.0,72100000.0
+2019-09-01,NSW,all,owner occupier,all,total_exc_refi,7895.0,4136899999.9999995
+2019-09-01,NSW,all,owner occupier,first home buyer,total_exc_refi,2210.0,1071200000.0
+2019-09-01,NT,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-09-01,NT,all,investor,all,construction,0.0,0.0
+2019-09-01,NT,all,investor,all,ext_refi,26.0,11200000.0
+2019-09-01,NT,all,investor,all,int_refi,53.0,20600000.0
+2019-09-01,NT,all,investor,all,purchase_existing,30.0,9000000.0
+2019-09-01,NT,all,investor,all,purchase_land,0.0,0.0
+2019-09-01,NT,all,investor,all,purchase_new,0.0,0.0
+2019-09-01,NT,all,investor,all,renovations,0.0,0.0
+2019-09-01,NT,all,investor,all,total_exc_refi,44.0,12700000.0
+2019-09-01,NT,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-09-01,NT,all,owner occupier,all,construction,18.0,8500000.0
+2019-09-01,NT,all,owner occupier,all,ext_refi,44.0,13900000.0
+2019-09-01,NT,all,owner occupier,all,int_refi,57.0,19600000.0
+2019-09-01,NT,all,owner occupier,all,purchase_existing,142.0,47000000.0
+2019-09-01,NT,all,owner occupier,all,purchase_land,6.0,2500000.0
+2019-09-01,NT,all,owner occupier,all,purchase_new,4.0,1500000.0
+2019-09-01,NT,all,owner occupier,all,renovations,9.0,1400000.0
+2019-09-01,NT,all,owner occupier,all,total_exc_refi,179.0,60800000.0
+2019-09-01,NT,all,owner occupier,first home buyer,total_exc_refi,68.0,24400000.0
+2019-09-01,QLD,all,all,first home buyer,total_exc_refi,1854.0,658300000.0
+2019-09-01,QLD,all,investor,all,construction,233.0,98200000.0
+2019-09-01,QLD,all,investor,all,ext_refi,1372.0,548600000.0
+2019-09-01,QLD,all,investor,all,int_refi,1115.0,379600000.0
+2019-09-01,QLD,all,investor,all,purchase_existing,1485.0,584400000.0
+2019-09-01,QLD,all,investor,all,purchase_land,113.0,31600000.0
+2019-09-01,QLD,all,investor,all,purchase_new,153.0,62500000.0
+2019-09-01,QLD,all,investor,all,renovations,138.0,13800000.0
+2019-09-01,QLD,all,investor,all,total_exc_refi,2122.0,790500000.0
+2019-09-01,QLD,all,investor,first home buyer,total_exc_refi,65.0,21500000.0
+2019-09-01,QLD,all,owner occupier,all,construction,606.0,264200000.0
+2019-09-01,QLD,all,owner occupier,all,ext_refi,2134.0,821900000.0
+2019-09-01,QLD,all,owner occupier,all,int_refi,2366.0,777200000.0
+2019-09-01,QLD,all,owner occupier,all,purchase_existing,4451.0,1800800000.0
+2019-09-01,QLD,all,owner occupier,all,purchase_land,439.0,126000000.0
+2019-09-01,QLD,all,owner occupier,all,purchase_new,311.0,130199999.99999999
+2019-09-01,QLD,all,owner occupier,all,renovations,301.0,39300000.0
+2019-09-01,QLD,all,owner occupier,all,total_exc_refi,6108.0,2360500000.0
+2019-09-01,QLD,all,owner occupier,first home buyer,total_exc_refi,1789.0,636800000.0
+2019-09-01,SA,all,all,first home buyer,total_exc_refi,543.0,173700000.0
+2019-09-01,SA,all,investor,all,construction,70.0,28900000.0
+2019-09-01,SA,all,investor,all,ext_refi,431.0,150800000.0
+2019-09-01,SA,all,investor,all,int_refi,297.0,92800000.0
+2019-09-01,SA,all,investor,all,purchase_existing,567.0,188100000.0
+2019-09-01,SA,all,investor,all,purchase_land,24.0,5700000.0
+2019-09-01,SA,all,investor,all,purchase_new,29.0,9700000.0
+2019-09-01,SA,all,investor,all,renovations,45.0,6000000.0
+2019-09-01,SA,all,investor,all,total_exc_refi,735.0,238400000.0
+2019-09-01,SA,all,investor,first home buyer,total_exc_refi,22.0,6900000.0
+2019-09-01,SA,all,owner occupier,all,construction,316.0,114300000.0
+2019-09-01,SA,all,owner occupier,all,ext_refi,1125.0,371600000.0
+2019-09-01,SA,all,owner occupier,all,int_refi,787.0,213200000.0
+2019-09-01,SA,all,owner occupier,all,purchase_existing,1446.0,513700000.00000006
+2019-09-01,SA,all,owner occupier,all,purchase_land,162.0,34300000.0
+2019-09-01,SA,all,owner occupier,all,purchase_new,118.0,46000000.0
+2019-09-01,SA,all,owner occupier,all,renovations,109.0,14600000.0
+2019-09-01,SA,all,owner occupier,all,total_exc_refi,2151.0,722900000.0
+2019-09-01,SA,all,owner occupier,first home buyer,total_exc_refi,521.0,166800000.0
+2019-09-01,TAS,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-09-01,TAS,all,investor,all,construction,12.0,4400000.0
+2019-09-01,TAS,all,investor,all,ext_refi,96.0,32100000.0
+2019-09-01,TAS,all,investor,all,int_refi,73.0,17900000.0
+2019-09-01,TAS,all,investor,all,purchase_existing,191.0,56900000.0
+2019-09-01,TAS,all,investor,all,purchase_land,13.0,1800000.0
+2019-09-01,TAS,all,investor,all,purchase_new,13.0,3500000.0
+2019-09-01,TAS,all,investor,all,renovations,18.0,2400000.0
+2019-09-01,TAS,all,investor,all,total_exc_refi,247.0,69000000.0
+2019-09-01,TAS,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-09-01,TAS,all,owner occupier,all,construction,85.0,32299999.999999996
+2019-09-01,TAS,all,owner occupier,all,ext_refi,294.0,89200000.0
+2019-09-01,TAS,all,owner occupier,all,int_refi,285.0,71000000.0
+2019-09-01,TAS,all,owner occupier,all,purchase_existing,494.0,160000000.0
+2019-09-01,TAS,all,owner occupier,all,purchase_land,87.0,13000000.0
+2019-09-01,TAS,all,owner occupier,all,purchase_new,36.0,11700000.0
+2019-09-01,TAS,all,owner occupier,all,renovations,36.0,3700000.0
+2019-09-01,TAS,all,owner occupier,all,total_exc_refi,738.0,220700000.0
+2019-09-01,TAS,all,owner occupier,first home buyer,total_exc_refi,193.0,54800000.0
+2019-09-01,VIC,all,all,first home buyer,total_exc_refi,2906.0,1228600000.0
+2019-09-01,VIC,all,investor,all,construction,403.0,176300000.0
+2019-09-01,VIC,all,investor,all,ext_refi,2440.0,1165200000.0
+2019-09-01,VIC,all,investor,all,int_refi,1694.0,719100000.0
+2019-09-01,VIC,all,investor,all,purchase_existing,2159.0,1029900000.0000001
+2019-09-01,VIC,all,investor,all,purchase_land,284.0,77200000.0
+2019-09-01,VIC,all,investor,all,purchase_new,334.0,143000000.0
+2019-09-01,VIC,all,investor,all,renovations,222.0,30100000.0
+2019-09-01,VIC,all,investor,all,total_exc_refi,3402.0,1456600000.0
+2019-09-01,VIC,all,investor,first home buyer,total_exc_refi,141.0,65500000.0
+2019-09-01,VIC,all,owner occupier,all,construction,1138.0,488500000.0
+2019-09-01,VIC,all,owner occupier,all,ext_refi,4520.0,2002400000.0
+2019-09-01,VIC,all,owner occupier,all,int_refi,3412.0,1279300000.0
+2019-09-01,VIC,all,owner occupier,all,purchase_existing,5124.0,2545900000.0
+2019-09-01,VIC,all,owner occupier,all,purchase_land,813.0,220000000.0
+2019-09-01,VIC,all,owner occupier,all,purchase_new,742.0,372800000.0
+2019-09-01,VIC,all,owner occupier,all,renovations,328.0,61400000.0
+2019-09-01,VIC,all,owner occupier,all,total_exc_refi,8145.0,3688600000.0
+2019-09-01,VIC,all,owner occupier,first home buyer,total_exc_refi,2765.0,1163200000.0
+2019-09-01,WA,all,all,first home buyer,total_exc_refi,1162.0,398000000.0
+2019-09-01,WA,all,investor,all,construction,53.0,21700000.0
+2019-09-01,WA,all,investor,all,ext_refi,432.0,174400000.0
+2019-09-01,WA,all,investor,all,int_refi,447.0,170600000.0
+2019-09-01,WA,all,investor,all,purchase_existing,400.0,168400000.0
+2019-09-01,WA,all,investor,all,purchase_land,28.0,6900000.0
+2019-09-01,WA,all,investor,all,purchase_new,35.0,16600000.000000002
+2019-09-01,WA,all,investor,all,renovations,69.0,3900000.0
+2019-09-01,WA,all,investor,all,total_exc_refi,585.0,217500000.0
+2019-09-01,WA,all,investor,first home buyer,total_exc_refi,31.0,12700000.0
+2019-09-01,WA,all,owner occupier,all,construction,487.0,188400000.0
+2019-09-01,WA,all,owner occupier,all,ext_refi,1118.0,452200000.0
+2019-09-01,WA,all,owner occupier,all,int_refi,1114.0,366300000.0
+2019-09-01,WA,all,owner occupier,all,purchase_existing,1850.0,727800000.0
+2019-09-01,WA,all,owner occupier,all,purchase_land,179.0,58100000.0
+2019-09-01,WA,all,owner occupier,all,purchase_new,161.0,60800000.0
+2019-09-01,WA,all,owner occupier,all,renovations,106.0,15200000.0
+2019-09-01,WA,all,owner occupier,all,total_exc_refi,2783.0,1050400000.0000001
+2019-09-01,WA,all,owner occupier,first home buyer,total_exc_refi,1131.0,385300000.0
+2019-10-01,ACT,all,all,first home buyer,total_exc_refi,238.0,98700000.0
+2019-10-01,ACT,all,investor,all,construction,0.0,0.0
+2019-10-01,ACT,all,investor,all,ext_refi,162.0,68400000.0
+2019-10-01,ACT,all,investor,all,int_refi,100.0,49500000.0
+2019-10-01,ACT,all,investor,all,purchase_existing,205.0,101600000.0
+2019-10-01,ACT,all,investor,all,purchase_land,0.0,0.0
+2019-10-01,ACT,all,investor,all,purchase_new,0.0,0.0
+2019-10-01,ACT,all,investor,all,renovations,0.0,0.0
+2019-10-01,ACT,all,investor,all,total_exc_refi,285.0,133300000.00000001
+2019-10-01,ACT,all,investor,first home buyer,total_exc_refi,16.0,5900000.0
+2019-10-01,ACT,all,owner occupier,all,construction,75.0,37600000.0
+2019-10-01,ACT,all,owner occupier,all,ext_refi,328.0,137200000.0
+2019-10-01,ACT,all,owner occupier,all,int_refi,239.0,91700000.0
+2019-10-01,ACT,all,owner occupier,all,purchase_existing,511.0,246200000.0
+2019-10-01,ACT,all,owner occupier,all,purchase_land,34.0,11400000.0
+2019-10-01,ACT,all,owner occupier,all,purchase_new,110.0,56800000.0
+2019-10-01,ACT,all,owner occupier,all,renovations,27.0,3200000.0
+2019-10-01,ACT,all,owner occupier,all,total_exc_refi,757.0,355300000.0
+2019-10-01,ACT,all,owner occupier,first home buyer,total_exc_refi,222.0,92900000.0
+2019-10-01,AUS,all,all,all,total_exc_refi,0.0,19718100000.0
+2019-10-01,AUS,all,all,first home buyer,total_exc_refi,10448.0,4270100000.0000005
+2019-10-01,AUS,all,investor,all,construction,1136.0,509000000.0
+2019-10-01,AUS,all,investor,all,ext_refi,8323.0,4038100000.0
+2019-10-01,AUS,all,investor,all,int_refi,6349.0,2644500000.0
+2019-10-01,AUS,all,investor,all,purchase_existing,8296.0,4009000000.0
+2019-10-01,AUS,all,investor,all,purchase_land,726.0,206600000.0
+2019-10-01,AUS,all,investor,all,purchase_new,1060.0,574300000.0
+2019-10-01,AUS,all,investor,all,renovations,818.0,115300000.0
+2019-10-01,AUS,all,investor,all,total_exc_refi,12036.0,5414300000.0
+2019-10-01,AUS,all,investor,first home buyer,total_exc_refi,558.0,267200000.0
+2019-10-01,AUS,all,non-resident,all,total,350.0,206800000.0
+2019-10-01,AUS,all,owner occupier,all,construction,3885.0,1645800000.0
+2019-10-01,AUS,all,owner occupier,all,ext_refi,14487.0,6382600000.0
+2019-10-01,AUS,all,owner occupier,all,int_refi,12329.0,4547200000.0
+2019-10-01,AUS,all,owner occupier,all,purchase_existing,21527.0,10572000000.0
+2019-10-01,AUS,all,owner occupier,all,purchase_land,2593.0,736800000.0
+2019-10-01,AUS,all,owner occupier,all,purchase_new,2220.0,1090800000.0
+2019-10-01,AUS,all,owner occupier,all,renovations,1721.0,258399999.99999997
+2019-10-01,AUS,all,owner occupier,all,total_exc_refi,31946.0,14303800000.0
+2019-10-01,AUS,all,owner occupier,first home buyer,total_exc_refi,9890.0,4002900000.0
+2019-10-01,AUS,major banks,all,all,total_exc_refi,0.0,14024300000.0
+2019-10-01,AUS,major banks,investor,all,total_exc_refi,0.0,3994700000.0
+2019-10-01,AUS,major banks,owner occupier,all,total_exc_refi,0.0,10029600000.0
+2019-10-01,AUS,non-adis,all,all,total_exc_refi,0.0,814400000.0
+2019-10-01,AUS,non-adis,investor,all,total_exc_refi,0.0,236800000.0
+2019-10-01,AUS,non-adis,owner occupier,all,total_exc_refi,0.0,577600000.0
+2019-10-01,AUS,other adis,all,all,total_exc_refi,0.0,4879400000.0
+2019-10-01,AUS,other adis,investor,all,total_exc_refi,0.0,1182800000.0
+2019-10-01,AUS,other adis,owner occupier,all,total_exc_refi,0.0,3696600000.0
+2019-10-01,NSW,all,all,first home buyer,total_exc_refi,2618.0,1299900000.0
+2019-10-01,NSW,all,investor,all,construction,279.0,145800000.0
+2019-10-01,NSW,all,investor,all,ext_refi,2908.0,1680800000.0
+2019-10-01,NSW,all,investor,all,int_refi,1973.0,983300000.0
+2019-10-01,NSW,all,investor,all,purchase_existing,2869.0,1667300000.0
+2019-10-01,NSW,all,investor,all,purchase_land,183.0,61000000.0
+2019-10-01,NSW,all,investor,all,purchase_new,474.0,309400000.0
+2019-10-01,NSW,all,investor,all,renovations,232.0,42700000.0
+2019-10-01,NSW,all,investor,all,total_exc_refi,4037.0,2226200000.0
+2019-10-01,NSW,all,investor,first home buyer,total_exc_refi,232.0,134500000.0
+2019-10-01,NSW,all,owner occupier,all,construction,773.0,361900000.0
+2019-10-01,NSW,all,owner occupier,all,ext_refi,4340.0,2281600000.0
+2019-10-01,NSW,all,owner occupier,all,int_refi,3658.0,1535300000.0
+2019-10-01,NSW,all,owner occupier,all,purchase_existing,6165.0,3801200000.0
+2019-10-01,NSW,all,owner occupier,all,purchase_land,582.0,194000000.0
+2019-10-01,NSW,all,owner occupier,all,purchase_new,697.0,397900000.0
+2019-10-01,NSW,all,owner occupier,all,renovations,588.0,93800000.0
+2019-10-01,NSW,all,owner occupier,all,total_exc_refi,8805.0,4848800000.0
+2019-10-01,NSW,all,owner occupier,first home buyer,total_exc_refi,2386.0,1165400000.0
+2019-10-01,NT,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-10-01,NT,all,investor,all,construction,0.0,0.0
+2019-10-01,NT,all,investor,all,ext_refi,41.0,18100000.0
+2019-10-01,NT,all,investor,all,int_refi,42.0,13200000.0
+2019-10-01,NT,all,investor,all,purchase_existing,27.0,10900000.0
+2019-10-01,NT,all,investor,all,purchase_land,0.0,0.0
+2019-10-01,NT,all,investor,all,purchase_new,0.0,0.0
+2019-10-01,NT,all,investor,all,renovations,0.0,0.0
+2019-10-01,NT,all,investor,all,total_exc_refi,38.0,11900000.0
+2019-10-01,NT,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-10-01,NT,all,owner occupier,all,construction,16.0,6300000.0
+2019-10-01,NT,all,owner occupier,all,ext_refi,47.0,16300000.0
+2019-10-01,NT,all,owner occupier,all,int_refi,58.0,15600000.0
+2019-10-01,NT,all,owner occupier,all,purchase_existing,145.0,49500000.0
+2019-10-01,NT,all,owner occupier,all,purchase_land,7.0,2200000.0
+2019-10-01,NT,all,owner occupier,all,purchase_new,5.0,1300000.0
+2019-10-01,NT,all,owner occupier,all,renovations,11.0,1600000.0
+2019-10-01,NT,all,owner occupier,all,total_exc_refi,184.0,60900000.0
+2019-10-01,NT,all,owner occupier,first home buyer,total_exc_refi,75.0,23900000.0
+2019-10-01,QLD,all,all,first home buyer,total_exc_refi,2049.0,735200000.0
+2019-10-01,QLD,all,investor,all,construction,280.0,122400000.0
+2019-10-01,QLD,all,investor,all,ext_refi,1451.0,573800000.0
+2019-10-01,QLD,all,investor,all,int_refi,1243.0,422600000.0
+2019-10-01,QLD,all,investor,all,purchase_existing,1564.0,613600000.0
+2019-10-01,QLD,all,investor,all,purchase_land,111.0,27300000.0
+2019-10-01,QLD,all,investor,all,purchase_new,125.0,56500000.0
+2019-10-01,QLD,all,investor,all,renovations,151.0,14900000.0
+2019-10-01,QLD,all,investor,all,total_exc_refi,2231.0,834600000.0
+2019-10-01,QLD,all,investor,first home buyer,total_exc_refi,78.0,32400000.0
+2019-10-01,QLD,all,owner occupier,all,construction,678.0,281500000.0
+2019-10-01,QLD,all,owner occupier,all,ext_refi,2173.0,829700000.0
+2019-10-01,QLD,all,owner occupier,all,int_refi,2382.0,798400000.0
+2019-10-01,QLD,all,owner occupier,all,purchase_existing,4743.0,1923800000.0
+2019-10-01,QLD,all,owner occupier,all,purchase_land,423.0,118800000.0
+2019-10-01,QLD,all,owner occupier,all,purchase_new,325.0,134100000.0
+2019-10-01,QLD,all,owner occupier,all,renovations,402.0,55600000.0
+2019-10-01,QLD,all,owner occupier,all,total_exc_refi,6571.0,2513800000.0
+2019-10-01,QLD,all,owner occupier,first home buyer,total_exc_refi,1971.0,702800000.0
+2019-10-01,SA,all,all,first home buyer,total_exc_refi,592.0,192600000.0
+2019-10-01,SA,all,investor,all,construction,55.0,17500000.0
+2019-10-01,SA,all,investor,all,ext_refi,451.0,148300000.0
+2019-10-01,SA,all,investor,all,int_refi,354.0,113500000.0
+2019-10-01,SA,all,investor,all,purchase_existing,563.0,192900000.0
+2019-10-01,SA,all,investor,all,purchase_land,26.0,4400000.0
+2019-10-01,SA,all,investor,all,purchase_new,24.0,9700000.0
+2019-10-01,SA,all,investor,all,renovations,35.0,3700000.0
+2019-10-01,SA,all,investor,all,total_exc_refi,703.0,228200000.0
+2019-10-01,SA,all,investor,first home buyer,total_exc_refi,51.0,17000000.0
+2019-10-01,SA,all,owner occupier,all,construction,333.0,130000000.0
+2019-10-01,SA,all,owner occupier,all,ext_refi,1157.0,386000000.0
+2019-10-01,SA,all,owner occupier,all,int_refi,887.0,246800000.0
+2019-10-01,SA,all,owner occupier,all,purchase_existing,1515.0,535200000.00000006
+2019-10-01,SA,all,owner occupier,all,purchase_land,155.0,31800000.0
+2019-10-01,SA,all,owner occupier,all,purchase_new,111.0,39300000.0
+2019-10-01,SA,all,owner occupier,all,renovations,115.0,17100000.0
+2019-10-01,SA,all,owner occupier,all,total_exc_refi,2229.0,753300000.0
+2019-10-01,SA,all,owner occupier,first home buyer,total_exc_refi,541.0,175600000.0
+2019-10-01,TAS,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-10-01,TAS,all,investor,all,construction,13.0,4300000.0
+2019-10-01,TAS,all,investor,all,ext_refi,83.0,23700000.0
+2019-10-01,TAS,all,investor,all,int_refi,93.0,26700000.0
+2019-10-01,TAS,all,investor,all,purchase_existing,177.0,55900000.0
+2019-10-01,TAS,all,investor,all,purchase_land,12.0,2400000.0
+2019-10-01,TAS,all,investor,all,purchase_new,14.0,4000000.0
+2019-10-01,TAS,all,investor,all,renovations,23.0,3300000.0
+2019-10-01,TAS,all,investor,all,total_exc_refi,239.0,70000000.0
+2019-10-01,TAS,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-10-01,TAS,all,owner occupier,all,construction,78.0,28900000.0
+2019-10-01,TAS,all,owner occupier,all,ext_refi,283.0,87500000.0
+2019-10-01,TAS,all,owner occupier,all,int_refi,339.0,90100000.0
+2019-10-01,TAS,all,owner occupier,all,purchase_existing,510.0,165200000.0
+2019-10-01,TAS,all,owner occupier,all,purchase_land,84.0,12600000.0
+2019-10-01,TAS,all,owner occupier,all,purchase_new,35.0,12800000.0
+2019-10-01,TAS,all,owner occupier,all,renovations,45.0,5000000.0
+2019-10-01,TAS,all,owner occupier,all,total_exc_refi,752.0,224500000.0
+2019-10-01,TAS,all,owner occupier,first home buyer,total_exc_refi,188.0,54400000.0
+2019-10-01,VIC,all,all,first home buyer,total_exc_refi,3424.0,1434000000.0
+2019-10-01,VIC,all,investor,all,construction,439.0,189200000.0
+2019-10-01,VIC,all,investor,all,ext_refi,2721.0,1316500000.0
+2019-10-01,VIC,all,investor,all,int_refi,1929.0,818400000.0
+2019-10-01,VIC,all,investor,all,purchase_existing,2418.0,1191700000.0
+2019-10-01,VIC,all,investor,all,purchase_land,337.0,93800000.0
+2019-10-01,VIC,all,investor,all,purchase_new,337.0,161800000.0
+2019-10-01,VIC,all,investor,all,renovations,271.0,42100000.0
+2019-10-01,VIC,all,investor,all,total_exc_refi,3802.0,1678500000.0
+2019-10-01,VIC,all,investor,first home buyer,total_exc_refi,131.0,62200000.0
+2019-10-01,VIC,all,owner occupier,all,construction,1383.0,583600000.0
+2019-10-01,VIC,all,owner occupier,all,ext_refi,4965.0,2182300000.0
+2019-10-01,VIC,all,owner occupier,all,int_refi,3754.0,1426000000.0
+2019-10-01,VIC,all,owner occupier,all,purchase_existing,5936.0,3056200000.0
+2019-10-01,VIC,all,owner occupier,all,purchase_land,1091.0,298100000.0
+2019-10-01,VIC,all,owner occupier,all,purchase_new,767.0,385700000.0
+2019-10-01,VIC,all,owner occupier,all,renovations,395.0,66700000.0
+2019-10-01,VIC,all,owner occupier,all,total_exc_refi,9572.0,4390300000.0
+2019-10-01,VIC,all,owner occupier,first home buyer,total_exc_refi,3293.0,1371800000.0
+2019-10-01,WA,all,all,first home buyer,total_exc_refi,1259.0,430300000.0
+2019-10-01,WA,all,investor,all,construction,49.0,21000000.0
+2019-10-01,WA,all,investor,all,ext_refi,506.0,208400000.0
+2019-10-01,WA,all,investor,all,int_refi,615.0,217100000.0
+2019-10-01,WA,all,investor,all,purchase_existing,473.0,175100000.0
+2019-10-01,WA,all,investor,all,purchase_land,49.0,15000000.0
+2019-10-01,WA,all,investor,all,purchase_new,41.0,14400000.0
+2019-10-01,WA,all,investor,all,renovations,89.0,6000000.0
+2019-10-01,WA,all,investor,all,total_exc_refi,701.0,231500000.0
+2019-10-01,WA,all,investor,first home buyer,total_exc_refi,45.0,14200000.0
+2019-10-01,WA,all,owner occupier,all,construction,549.0,216000000.0
+2019-10-01,WA,all,owner occupier,all,ext_refi,1194.0,462000000.0
+2019-10-01,WA,all,owner occupier,all,int_refi,1012.0,343300000.0
+2019-10-01,WA,all,owner occupier,all,purchase_existing,2002.0,794700000.0
+2019-10-01,WA,all,owner occupier,all,purchase_land,217.0,67800000.0
+2019-10-01,WA,all,owner occupier,all,purchase_new,170.0,62900000.0
+2019-10-01,WA,all,owner occupier,all,renovations,138.0,15400000.0
+2019-10-01,WA,all,owner occupier,all,total_exc_refi,3076.0,1156900000.0
+2019-10-01,WA,all,owner occupier,first home buyer,total_exc_refi,1214.0,416100000.0
+2019-11-01,ACT,all,all,first home buyer,total_exc_refi,292.0,125000000.0
+2019-11-01,ACT,all,investor,all,construction,0.0,0.0
+2019-11-01,ACT,all,investor,all,ext_refi,141.0,55400000.0
+2019-11-01,ACT,all,investor,all,int_refi,134.0,52200000.0
+2019-11-01,ACT,all,investor,all,purchase_existing,212.0,96400000.0
+2019-11-01,ACT,all,investor,all,purchase_land,0.0,0.0
+2019-11-01,ACT,all,investor,all,purchase_new,0.0,28700000.0
+2019-11-01,ACT,all,investor,all,renovations,0.0,0.0
+2019-11-01,ACT,all,investor,all,total_exc_refi,338.0,139000000.0
+2019-11-01,ACT,all,investor,first home buyer,total_exc_refi,14.0,5300000.0
+2019-11-01,ACT,all,owner occupier,all,construction,54.0,27700000.0
+2019-11-01,ACT,all,owner occupier,all,ext_refi,368.0,149000000.0
+2019-11-01,ACT,all,owner occupier,all,int_refi,208.0,74300000.0
+2019-11-01,ACT,all,owner occupier,all,purchase_existing,615.0,305500000.0
+2019-11-01,ACT,all,owner occupier,all,purchase_land,32.0,11400000.0
+2019-11-01,ACT,all,owner occupier,all,purchase_new,149.0,62300000.0
+2019-11-01,ACT,all,owner occupier,all,renovations,16.0,1800000.0
+2019-11-01,ACT,all,owner occupier,all,total_exc_refi,866.0,408600000.0
+2019-11-01,ACT,all,owner occupier,first home buyer,total_exc_refi,278.0,119700000.0
+2019-11-01,AUS,all,all,all,total_exc_refi,0.0,21140900000.0
+2019-11-01,AUS,all,all,first home buyer,total_exc_refi,10731.0,4541200000.0
+2019-11-01,AUS,all,investor,all,construction,1171.0,530700000.00000006
+2019-11-01,AUS,all,investor,all,ext_refi,7984.0,3869600000.0
+2019-11-01,AUS,all,investor,all,int_refi,6255.0,2661000000.0
+2019-11-01,AUS,all,investor,all,purchase_existing,8774.0,4296200000.0
+2019-11-01,AUS,all,investor,all,purchase_land,810.0,234400000.0
+2019-11-01,AUS,all,investor,all,purchase_new,1094.0,575500000.0
+2019-11-01,AUS,all,investor,all,renovations,844.0,117700000.0
+2019-11-01,AUS,all,investor,all,total_exc_refi,12693.0,5754500000.0
+2019-11-01,AUS,all,investor,first home buyer,total_exc_refi,552.0,270900000.0
+2019-11-01,AUS,all,non-resident,all,total,311.0,200000000.0
+2019-11-01,AUS,all,owner occupier,all,construction,3654.0,1584400000.0
+2019-11-01,AUS,all,owner occupier,all,ext_refi,14455.0,6385300000.0
+2019-11-01,AUS,all,owner occupier,all,int_refi,12054.0,4574000000.0
+2019-11-01,AUS,all,owner occupier,all,purchase_existing,22948.0,11556900000.0
+2019-11-01,AUS,all,owner occupier,all,purchase_land,2650.0,773200000.0
+2019-11-01,AUS,all,owner occupier,all,purchase_new,2554.0,1262500000.0
+2019-11-01,AUS,all,owner occupier,all,renovations,1529.0,209500000.0
+2019-11-01,AUS,all,owner occupier,all,total_exc_refi,33335.0,15386500000.0
+2019-11-01,AUS,all,owner occupier,first home buyer,total_exc_refi,10179.0,4270300000.0
+2019-11-01,AUS,major banks,all,all,total_exc_refi,0.0,14545300000.0
+2019-11-01,AUS,major banks,investor,all,total_exc_refi,0.0,4159200000.0
+2019-11-01,AUS,major banks,owner occupier,all,total_exc_refi,0.0,10386100000.0
+2019-11-01,AUS,non-adis,all,all,total_exc_refi,0.0,893300000.0
+2019-11-01,AUS,non-adis,investor,all,total_exc_refi,0.0,265800000.0
+2019-11-01,AUS,non-adis,owner occupier,all,total_exc_refi,0.0,627500000.0
+2019-11-01,AUS,other adis,all,all,total_exc_refi,0.0,5702400000.0
+2019-11-01,AUS,other adis,investor,all,total_exc_refi,0.0,1329500000.0
+2019-11-01,AUS,other adis,owner occupier,all,total_exc_refi,0.0,4372800000.0
+2019-11-01,NSW,all,all,first home buyer,total_exc_refi,2821.0,1426500000.0
+2019-11-01,NSW,all,investor,all,construction,293.0,150300000.0
+2019-11-01,NSW,all,investor,all,ext_refi,2870.0,1651100000.0
+2019-11-01,NSW,all,investor,all,int_refi,2025.0,1030900000.0000001
+2019-11-01,NSW,all,investor,all,purchase_existing,3063.0,1850500000.0
+2019-11-01,NSW,all,investor,all,purchase_land,199.0,72100000.0
+2019-11-01,NSW,all,investor,all,purchase_new,479.0,314200000.0
+2019-11-01,NSW,all,investor,all,renovations,248.0,52400000.0
+2019-11-01,NSW,all,investor,all,total_exc_refi,4282.0,2439300000.0
+2019-11-01,NSW,all,investor,first home buyer,total_exc_refi,214.0,127100000.0
+2019-11-01,NSW,all,owner occupier,all,construction,760.0,383100000.0
+2019-11-01,NSW,all,owner occupier,all,ext_refi,4536.0,2429500000.0
+2019-11-01,NSW,all,owner occupier,all,int_refi,3691.0,1631500000.0
+2019-11-01,NSW,all,owner occupier,all,purchase_existing,6682.0,4205899999.9999995
+2019-11-01,NSW,all,owner occupier,all,purchase_land,700.0,240700000.0
+2019-11-01,NSW,all,owner occupier,all,purchase_new,875.0,512100000.0
+2019-11-01,NSW,all,owner occupier,all,renovations,479.0,72700000.0
+2019-11-01,NSW,all,owner occupier,all,total_exc_refi,9496.0,5414500000.0
+2019-11-01,NSW,all,owner occupier,first home buyer,total_exc_refi,2607.0,1299400000.0
+2019-11-01,NT,all,all,first home buyer,total_exc_refi,74.0,25500000.0
+2019-11-01,NT,all,investor,all,construction,0.0,0.0
+2019-11-01,NT,all,investor,all,ext_refi,28.0,13000000.0
+2019-11-01,NT,all,investor,all,int_refi,50.0,18300000.0
+2019-11-01,NT,all,investor,all,purchase_existing,52.0,17600000.0
+2019-11-01,NT,all,investor,all,purchase_land,0.0,0.0
+2019-11-01,NT,all,investor,all,purchase_new,0.0,900000.0
+2019-11-01,NT,all,investor,all,renovations,0.0,0.0
+2019-11-01,NT,all,investor,all,total_exc_refi,67.0,20000000.0
+2019-11-01,NT,all,investor,first home buyer,total_exc_refi,4.0,1400000.0
+2019-11-01,NT,all,owner occupier,all,construction,24.0,8500000.0
+2019-11-01,NT,all,owner occupier,all,ext_refi,52.0,20700000.0
+2019-11-01,NT,all,owner occupier,all,int_refi,49.0,14000000.0
+2019-11-01,NT,all,owner occupier,all,purchase_existing,134.0,50800000.0
+2019-11-01,NT,all,owner occupier,all,purchase_land,9.0,2600000.0
+2019-11-01,NT,all,owner occupier,all,purchase_new,8.0,2000000.0
+2019-11-01,NT,all,owner occupier,all,renovations,11.0,1200000.0
+2019-11-01,NT,all,owner occupier,all,total_exc_refi,186.0,65000000.0
+2019-11-01,NT,all,owner occupier,first home buyer,total_exc_refi,70.0,24100000.0
+2019-11-01,QLD,all,all,first home buyer,total_exc_refi,1983.0,734800000.0
+2019-11-01,QLD,all,investor,all,construction,230.0,98500000.0
+2019-11-01,QLD,all,investor,all,ext_refi,1454.0,567000000.0
+2019-11-01,QLD,all,investor,all,int_refi,1226.0,422300000.0
+2019-11-01,QLD,all,investor,all,purchase_existing,1593.0,627500000.0
+2019-11-01,QLD,all,investor,all,purchase_land,101.0,30900000.0
+2019-11-01,QLD,all,investor,all,purchase_new,135.0,55700000.0
+2019-11-01,QLD,all,investor,all,renovations,162.0,12200000.0
+2019-11-01,QLD,all,investor,all,total_exc_refi,2221.0,824800000.0
+2019-11-01,QLD,all,investor,first home buyer,total_exc_refi,80.0,33400000.0
+2019-11-01,QLD,all,owner occupier,all,construction,674.0,288000000.0
+2019-11-01,QLD,all,owner occupier,all,ext_refi,2252.0,846500000.0
+2019-11-01,QLD,all,owner occupier,all,int_refi,2368.0,759000000.0
+2019-11-01,QLD,all,owner occupier,all,purchase_existing,5032.0,2104900000.0
+2019-11-01,QLD,all,owner occupier,all,purchase_land,412.0,119900000.0
+2019-11-01,QLD,all,owner occupier,all,purchase_new,343.0,145600000.0
+2019-11-01,QLD,all,owner occupier,all,renovations,376.0,48400000.0
+2019-11-01,QLD,all,owner occupier,all,total_exc_refi,6837.0,2706800000.0
+2019-11-01,QLD,all,owner occupier,first home buyer,total_exc_refi,1903.0,701400000.0
+2019-11-01,SA,all,all,first home buyer,total_exc_refi,570.0,191000000.0
+2019-11-01,SA,all,investor,all,construction,80.0,31200000.0
+2019-11-01,SA,all,investor,all,ext_refi,418.0,134300000.0
+2019-11-01,SA,all,investor,all,int_refi,325.0,102900000.0
+2019-11-01,SA,all,investor,all,purchase_existing,594.0,196800000.0
+2019-11-01,SA,all,investor,all,purchase_land,33.0,7400000.0
+2019-11-01,SA,all,investor,all,purchase_new,28.0,9500000.0
+2019-11-01,SA,all,investor,all,renovations,52.0,7100000.0
+2019-11-01,SA,all,investor,all,total_exc_refi,787.0,252000000.0
+2019-11-01,SA,all,investor,first home buyer,total_exc_refi,26.0,7800000.0
+2019-11-01,SA,all,owner occupier,all,construction,370.0,134900000.0
+2019-11-01,SA,all,owner occupier,all,ext_refi,1129.0,367100000.0
+2019-11-01,SA,all,owner occupier,all,int_refi,843.0,241100000.0
+2019-11-01,SA,all,owner occupier,all,purchase_existing,1623.0,620900000.0
+2019-11-01,SA,all,owner occupier,all,purchase_land,165.0,35000000.0
+2019-11-01,SA,all,owner occupier,all,purchase_new,142.0,52200000.0
+2019-11-01,SA,all,owner occupier,all,renovations,110.0,11900000.0
+2019-11-01,SA,all,owner occupier,all,total_exc_refi,2410.0,854900000.0
+2019-11-01,SA,all,owner occupier,first home buyer,total_exc_refi,544.0,183200000.0
+2019-11-01,TAS,all,all,first home buyer,total_exc_refi,211.0,60800000.0
+2019-11-01,TAS,all,investor,all,construction,9.0,3400000.0
+2019-11-01,TAS,all,investor,all,ext_refi,102.0,29200000.0
+2019-11-01,TAS,all,investor,all,int_refi,105.0,30500000.0
+2019-11-01,TAS,all,investor,all,purchase_existing,196.0,61000000.0
+2019-11-01,TAS,all,investor,all,purchase_land,16.0,2600000.0
+2019-11-01,TAS,all,investor,all,purchase_new,13.0,4300000.0
+2019-11-01,TAS,all,investor,all,renovations,14.0,900000.0
+2019-11-01,TAS,all,investor,all,total_exc_refi,248.0,72100000.0
+2019-11-01,TAS,all,investor,first home buyer,total_exc_refi,6.0,1600000.0
+2019-11-01,TAS,all,owner occupier,all,construction,90.0,37300000.0
+2019-11-01,TAS,all,owner occupier,all,ext_refi,285.0,79900000.0
+2019-11-01,TAS,all,owner occupier,all,int_refi,348.0,90000000.0
+2019-11-01,TAS,all,owner occupier,all,purchase_existing,522.0,170300000.0
+2019-11-01,TAS,all,owner occupier,all,purchase_land,89.0,12300000.0
+2019-11-01,TAS,all,owner occupier,all,purchase_new,35.0,12000000.0
+2019-11-01,TAS,all,owner occupier,all,renovations,48.0,3900000.0
+2019-11-01,TAS,all,owner occupier,all,total_exc_refi,784.0,235700000.0
+2019-11-01,TAS,all,owner occupier,first home buyer,total_exc_refi,205.0,59200000.0
+2019-11-01,VIC,all,all,first home buyer,total_exc_refi,3514.0,1537700000.0
+2019-11-01,VIC,all,investor,all,construction,488.0,214900000.0
+2019-11-01,VIC,all,investor,all,ext_refi,2538.0,1241700000.0
+2019-11-01,VIC,all,investor,all,int_refi,1835.0,796200000.0
+2019-11-01,VIC,all,investor,all,purchase_existing,2586.0,1261200000.0
+2019-11-01,VIC,all,investor,all,purchase_land,405.0,106700000.0
+2019-11-01,VIC,all,investor,all,purchase_new,328.0,150400000.0
+2019-11-01,VIC,all,investor,all,renovations,251.0,36600000.0
+2019-11-01,VIC,all,investor,all,total_exc_refi,4058.0,1769800000.0
+2019-11-01,VIC,all,investor,first home buyer,total_exc_refi,173.0,83900000.0
+2019-11-01,VIC,all,owner occupier,all,construction,1151.0,485900000.0
+2019-11-01,VIC,all,owner occupier,all,ext_refi,4757.0,2087100000.0
+2019-11-01,VIC,all,owner occupier,all,int_refi,3560.0,1421100000.0
+2019-11-01,VIC,all,owner occupier,all,purchase_existing,6241.0,3251800000.0
+2019-11-01,VIC,all,owner occupier,all,purchase_land,1018.0,282700000.0
+2019-11-01,VIC,all,owner occupier,all,purchase_new,838.0,420700000.0
+2019-11-01,VIC,all,owner occupier,all,renovations,364.0,58000000.0
+2019-11-01,VIC,all,owner occupier,all,total_exc_refi,9612.0,4499000000.0
+2019-11-01,VIC,all,owner occupier,first home buyer,total_exc_refi,3341.0,1453900000.0
+2019-11-01,WA,all,all,first home buyer,total_exc_refi,1266.0,439900000.0
+2019-11-01,WA,all,investor,all,construction,49.0,24100000.0
+2019-11-01,WA,all,investor,all,ext_refi,433.0,178100000.0
+2019-11-01,WA,all,investor,all,int_refi,555.0,207700000.0
+2019-11-01,WA,all,investor,all,purchase_existing,478.0,185300000.0
+2019-11-01,WA,all,investor,all,purchase_land,38.0,10500000.0
+2019-11-01,WA,all,investor,all,purchase_new,34.0,12000000.0
+2019-11-01,WA,all,investor,all,renovations,93.0,5500000.0
+2019-11-01,WA,all,investor,all,total_exc_refi,692.0,237500000.0
+2019-11-01,WA,all,investor,first home buyer,total_exc_refi,35.0,10400000.0
+2019-11-01,WA,all,owner occupier,all,construction,531.0,219200000.0
+2019-11-01,WA,all,owner occupier,all,ext_refi,1076.0,405400000.0
+2019-11-01,WA,all,owner occupier,all,int_refi,987.0,343100000.0
+2019-11-01,WA,all,owner occupier,all,purchase_existing,2099.0,846900000.0
+2019-11-01,WA,all,owner occupier,all,purchase_land,225.0,68600000.0
+2019-11-01,WA,all,owner occupier,all,purchase_new,164.0,55600000.0
+2019-11-01,WA,all,owner occupier,all,renovations,125.0,11500000.0
+2019-11-01,WA,all,owner occupier,all,total_exc_refi,3144.0,1201800000.0
+2019-11-01,WA,all,owner occupier,first home buyer,total_exc_refi,1231.0,429500000.0
+2019-12-01,ACT,all,all,first home buyer,total_exc_refi,311.0,133900000.0
+2019-12-01,ACT,all,investor,all,construction,0.0,0.0
+2019-12-01,ACT,all,investor,all,ext_refi,149.0,69200000.0
+2019-12-01,ACT,all,investor,all,int_refi,116.0,52700000.0
+2019-12-01,ACT,all,investor,all,purchase_existing,216.0,103500000.0
+2019-12-01,ACT,all,investor,all,purchase_land,0.0,0.0
+2019-12-01,ACT,all,investor,all,purchase_new,0.0,0.0
+2019-12-01,ACT,all,investor,all,renovations,0.0,0.0
+2019-12-01,ACT,all,investor,all,total_exc_refi,302.0,141100000.0
+2019-12-01,ACT,all,investor,first home buyer,total_exc_refi,18.0,6900000.0
+2019-12-01,ACT,all,owner occupier,all,construction,40.0,19200000.0
+2019-12-01,ACT,all,owner occupier,all,ext_refi,340.0,153800000.0
+2019-12-01,ACT,all,owner occupier,all,int_refi,232.0,92600000.0
+2019-12-01,ACT,all,owner occupier,all,purchase_existing,645.0,319800000.0
+2019-12-01,ACT,all,owner occupier,all,purchase_land,34.0,14100000.0
+2019-12-01,ACT,all,owner occupier,all,purchase_new,167.0,74800000.0
+2019-12-01,ACT,all,owner occupier,all,renovations,25.0,4500000.0
+2019-12-01,ACT,all,owner occupier,all,total_exc_refi,911.0,432400000.0
+2019-12-01,ACT,all,owner occupier,first home buyer,total_exc_refi,293.0,127000000.0
+2019-12-01,AUS,all,all,all,total_exc_refi,0.0,21358500000.0
+2019-12-01,AUS,all,all,first home buyer,total_exc_refi,10905.0,4601300000.0
+2019-12-01,AUS,all,investor,all,construction,1181.0,549900000.0
+2019-12-01,AUS,all,investor,all,ext_refi,7948.0,3873100000.0
+2019-12-01,AUS,all,investor,all,int_refi,6640.0,2797100000.0
+2019-12-01,AUS,all,investor,all,purchase_existing,8704.0,4314700000.0
+2019-12-01,AUS,all,investor,all,purchase_land,842.0,247300000.0
+2019-12-01,AUS,all,investor,all,purchase_new,1143.0,615700000.0
+2019-12-01,AUS,all,investor,all,renovations,753.0,106500000.0
+2019-12-01,AUS,all,investor,all,total_exc_refi,12623.0,5834000000.0
+2019-12-01,AUS,all,investor,first home buyer,total_exc_refi,546.0,256899999.99999997
+2019-12-01,AUS,all,non-resident,all,total,323.0,204400000.0
+2019-12-01,AUS,all,owner occupier,all,construction,3662.0,1597600000.0
+2019-12-01,AUS,all,owner occupier,all,ext_refi,14781.0,6621400000.0
+2019-12-01,AUS,all,owner occupier,all,int_refi,12124.0,4547700000.0
+2019-12-01,AUS,all,owner occupier,all,purchase_existing,23045.0,11694900000.0
+2019-12-01,AUS,all,owner occupier,all,purchase_land,2782.0,789900000.0
+2019-12-01,AUS,all,owner occupier,all,purchase_new,2538.0,1239100000.0
+2019-12-01,AUS,all,owner occupier,all,renovations,1598.0,202800000.0
+2019-12-01,AUS,all,owner occupier,all,total_exc_refi,33625.0,15524400000.0
+2019-12-01,AUS,all,owner occupier,first home buyer,total_exc_refi,10359.0,4344400000.0
+2019-12-01,AUS,major banks,all,all,total_exc_refi,0.0,14778900000.0
+2019-12-01,AUS,major banks,investor,all,total_exc_refi,0.0,4236300000.0
+2019-12-01,AUS,major banks,owner occupier,all,total_exc_refi,0.0,10542700000.0
+2019-12-01,AUS,non-adis,all,all,total_exc_refi,0.0,955200000.0
+2019-12-01,AUS,non-adis,investor,all,total_exc_refi,0.0,296500000.0
+2019-12-01,AUS,non-adis,owner occupier,all,total_exc_refi,0.0,658700000.0
+2019-12-01,AUS,other adis,all,all,total_exc_refi,0.0,5624400000.0
+2019-12-01,AUS,other adis,investor,all,total_exc_refi,0.0,1301300000.0
+2019-12-01,AUS,other adis,owner occupier,all,total_exc_refi,0.0,4323100000.0
+2019-12-01,NSW,all,all,first home buyer,total_exc_refi,2680.0,1338100000.0
+2019-12-01,NSW,all,investor,all,construction,268.0,150500000.0
+2019-12-01,NSW,all,investor,all,ext_refi,2834.0,1664600000.0
+2019-12-01,NSW,all,investor,all,int_refi,2076.0,1080100000.0
+2019-12-01,NSW,all,investor,all,purchase_existing,3008.0,1836300000.0
+2019-12-01,NSW,all,investor,all,purchase_land,199.0,70000000.0
+2019-12-01,NSW,all,investor,all,purchase_new,498.0,325000000.0
+2019-12-01,NSW,all,investor,all,renovations,203.0,39900000.0
+2019-12-01,NSW,all,investor,all,total_exc_refi,4176.0,2421600000.0
+2019-12-01,NSW,all,investor,first home buyer,total_exc_refi,190.0,112200000.0
+2019-12-01,NSW,all,owner occupier,all,construction,663.0,316800000.0
+2019-12-01,NSW,all,owner occupier,all,ext_refi,4516.0,2433300000.0
+2019-12-01,NSW,all,owner occupier,all,int_refi,3603.0,1608700000.0
+2019-12-01,NSW,all,owner occupier,all,purchase_existing,6498.0,4114399999.9999995
+2019-12-01,NSW,all,owner occupier,all,purchase_land,636.0,210700000.0
+2019-12-01,NSW,all,owner occupier,all,purchase_new,807.0,469400000.0
+2019-12-01,NSW,all,owner occupier,all,renovations,551.0,69100000.0
+2019-12-01,NSW,all,owner occupier,all,total_exc_refi,9155.0,5180400000.0
+2019-12-01,NSW,all,owner occupier,first home buyer,total_exc_refi,2490.0,1225900000.0
+2019-12-01,NT,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-12-01,NT,all,investor,all,construction,0.0,0.0
+2019-12-01,NT,all,investor,all,ext_refi,39.0,18400000.0
+2019-12-01,NT,all,investor,all,int_refi,66.0,18300000.0
+2019-12-01,NT,all,investor,all,purchase_existing,44.0,16200000.0
+2019-12-01,NT,all,investor,all,purchase_land,0.0,0.0
+2019-12-01,NT,all,investor,all,purchase_new,0.0,0.0
+2019-12-01,NT,all,investor,all,renovations,0.0,0.0
+2019-12-01,NT,all,investor,all,total_exc_refi,47.0,16700000.0
+2019-12-01,NT,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-12-01,NT,all,owner occupier,all,construction,19.0,9600000.0
+2019-12-01,NT,all,owner occupier,all,ext_refi,55.0,17900000.0
+2019-12-01,NT,all,owner occupier,all,int_refi,66.0,19400000.0
+2019-12-01,NT,all,owner occupier,all,purchase_existing,156.0,58100000.0
+2019-12-01,NT,all,owner occupier,all,purchase_land,13.0,1900000.0
+2019-12-01,NT,all,owner occupier,all,purchase_new,4.0,700000.0
+2019-12-01,NT,all,owner occupier,all,renovations,4.0,0.0
+2019-12-01,NT,all,owner occupier,all,total_exc_refi,196.0,70300000.0
+2019-12-01,NT,all,owner occupier,first home buyer,total_exc_refi,70.0,26900000.0
+2019-12-01,QLD,all,all,first home buyer,total_exc_refi,1984.0,729600000.0
+2019-12-01,QLD,all,investor,all,construction,239.0,100000000.0
+2019-12-01,QLD,all,investor,all,ext_refi,1367.0,527799999.99999994
+2019-12-01,QLD,all,investor,all,int_refi,1341.0,460500000.0
+2019-12-01,QLD,all,investor,all,purchase_existing,1583.0,635000000.0
+2019-12-01,QLD,all,investor,all,purchase_land,110.0,33200000.000000004
+2019-12-01,QLD,all,investor,all,purchase_new,153.0,68400000.0
+2019-12-01,QLD,all,investor,all,renovations,154.0,17600000.0
+2019-12-01,QLD,all,investor,all,total_exc_refi,2239.0,854300000.0
+2019-12-01,QLD,all,investor,first home buyer,total_exc_refi,96.0,35000000.0
+2019-12-01,QLD,all,owner occupier,all,construction,657.0,300800000.0
+2019-12-01,QLD,all,owner occupier,all,ext_refi,2263.0,871500000.0
+2019-12-01,QLD,all,owner occupier,all,int_refi,2296.0,738900000.0
+2019-12-01,QLD,all,owner occupier,all,purchase_existing,4873.0,2059100000.0
+2019-12-01,QLD,all,owner occupier,all,purchase_land,400.0,112600000.0
+2019-12-01,QLD,all,owner occupier,all,purchase_new,377.0,155900000.0
+2019-12-01,QLD,all,owner occupier,all,renovations,371.0,41500000.0
+2019-12-01,QLD,all,owner occupier,all,total_exc_refi,6678.0,2670000000.0
+2019-12-01,QLD,all,owner occupier,first home buyer,total_exc_refi,1888.0,694600000.0
+2019-12-01,SA,all,all,first home buyer,total_exc_refi,609.0,200500000.0
+2019-12-01,SA,all,investor,all,construction,74.0,28200000.0
+2019-12-01,SA,all,investor,all,ext_refi,432.0,145700000.0
+2019-12-01,SA,all,investor,all,int_refi,363.0,105300000.0
+2019-12-01,SA,all,investor,all,purchase_existing,607.0,211500000.0
+2019-12-01,SA,all,investor,all,purchase_land,27.0,7200000.0
+2019-12-01,SA,all,investor,all,purchase_new,24.0,9000000.0
+2019-12-01,SA,all,investor,all,renovations,40.0,5000000.0
+2019-12-01,SA,all,investor,all,total_exc_refi,772.0,260899999.99999997
+2019-12-01,SA,all,investor,first home buyer,total_exc_refi,29.0,7600000.0
+2019-12-01,SA,all,owner occupier,all,construction,315.0,116400000.0
+2019-12-01,SA,all,owner occupier,all,ext_refi,1159.0,381500000.0
+2019-12-01,SA,all,owner occupier,all,int_refi,815.0,241200000.0
+2019-12-01,SA,all,owner occupier,all,purchase_existing,1733.0,653200000.0
+2019-12-01,SA,all,owner occupier,all,purchase_land,198.0,39000000.0
+2019-12-01,SA,all,owner occupier,all,purchase_new,125.0,48000000.0
+2019-12-01,SA,all,owner occupier,all,renovations,109.0,14400000.0
+2019-12-01,SA,all,owner occupier,all,total_exc_refi,2480.0,870900000.0
+2019-12-01,SA,all,owner occupier,first home buyer,total_exc_refi,580.0,193000000.0
+2019-12-01,TAS,all,all,first home buyer,total_exc_refi,0.0,0.0
+2019-12-01,TAS,all,investor,all,construction,9.0,4400000.0
+2019-12-01,TAS,all,investor,all,ext_refi,86.0,22800000.0
+2019-12-01,TAS,all,investor,all,int_refi,96.0,23100000.0
+2019-12-01,TAS,all,investor,all,purchase_existing,175.0,55200000.0
+2019-12-01,TAS,all,investor,all,purchase_land,16.0,2700000.0
+2019-12-01,TAS,all,investor,all,purchase_new,8.0,2000000.0
+2019-12-01,TAS,all,investor,all,renovations,17.0,1100000.0
+2019-12-01,TAS,all,investor,all,total_exc_refi,225.0,65400000.00000001
+2019-12-01,TAS,all,investor,first home buyer,total_exc_refi,0.0,0.0
+2019-12-01,TAS,all,owner occupier,all,construction,69.0,29600000.0
+2019-12-01,TAS,all,owner occupier,all,ext_refi,298.0,88000000.0
+2019-12-01,TAS,all,owner occupier,all,int_refi,349.0,90400000.0
+2019-12-01,TAS,all,owner occupier,all,purchase_existing,502.0,167100000.0
+2019-12-01,TAS,all,owner occupier,all,purchase_land,94.0,16100000.000000002
+2019-12-01,TAS,all,owner occupier,all,purchase_new,28.0,8600000.0
+2019-12-01,TAS,all,owner occupier,all,renovations,68.0,3700000.0
+2019-12-01,TAS,all,owner occupier,all,total_exc_refi,761.0,225100000.0
+2019-12-01,TAS,all,owner occupier,first home buyer,total_exc_refi,173.0,52100000.0
+2019-12-01,VIC,all,all,first home buyer,total_exc_refi,3836.0,1689300000.0
+2019-12-01,VIC,all,investor,all,construction,530.0,235000000.0
+2019-12-01,VIC,all,investor,all,ext_refi,2589.0,1239300000.0
+2019-12-01,VIC,all,investor,all,int_refi,1970.0,848200000.0
+2019-12-01,VIC,all,investor,all,purchase_existing,2604.0,1277400000.0
+2019-12-01,VIC,all,investor,all,purchase_land,428.0,119500000.0
+2019-12-01,VIC,all,investor,all,purchase_new,369.0,173300000.0
+2019-12-01,VIC,all,investor,all,renovations,238.0,35500000.0
+2019-12-01,VIC,all,investor,all,total_exc_refi,4169.0,1840700000.0
+2019-12-01,VIC,all,investor,first home buyer,total_exc_refi,161.0,78600000.0
+2019-12-01,VIC,all,owner occupier,all,construction,1358.0,593200000.0
+2019-12-01,VIC,all,owner occupier,all,ext_refi,5058.0,2268800000.0
+2019-12-01,VIC,all,owner occupier,all,int_refi,3772.0,1433600000.0
+2019-12-01,VIC,all,owner occupier,all,purchase_existing,6546.0,3463400000.0
+2019-12-01,VIC,all,owner occupier,all,purchase_land,1206.0,335700000.0
+2019-12-01,VIC,all,owner occupier,all,purchase_new,891.0,424300000.0
+2019-12-01,VIC,all,owner occupier,all,renovations,360.0,58800000.0
+2019-12-01,VIC,all,owner occupier,all,total_exc_refi,10361.0,4875400000.0
+2019-12-01,VIC,all,owner occupier,first home buyer,total_exc_refi,3675.0,1610700000.0
+2019-12-01,WA,all,all,first home buyer,total_exc_refi,1233.0,428500000.0
+2019-12-01,WA,all,investor,all,construction,46.0,21100000.0
+2019-12-01,WA,all,investor,all,ext_refi,452.0,185400000.0
+2019-12-01,WA,all,investor,all,int_refi,612.0,208800000.0
+2019-12-01,WA,all,investor,all,purchase_existing,467.0,179700000.0
+2019-12-01,WA,all,investor,all,purchase_land,55.0,13100000.0
+2019-12-01,WA,all,investor,all,purchase_new,34.0,12600000.0
+2019-12-01,WA,all,investor,all,renovations,91.0,6900000.0
+2019-12-01,WA,all,investor,all,total_exc_refi,693.0,233300000.0
+2019-12-01,WA,all,investor,first home buyer,total_exc_refi,43.0,14300000.0
+2019-12-01,WA,all,owner occupier,all,construction,541.0,212100000.0
+2019-12-01,WA,all,owner occupier,all,ext_refi,1092.0,406400000.0
+2019-12-01,WA,all,owner occupier,all,int_refi,991.0,322900000.0
+2019-12-01,WA,all,owner occupier,all,purchase_existing,2092.0,859900000.0
+2019-12-01,WA,all,owner occupier,all,purchase_land,201.0,59900000.0
+2019-12-01,WA,all,owner occupier,all,purchase_new,139.0,57500000.0
+2019-12-01,WA,all,owner occupier,all,renovations,110.0,10600000.0
+2019-12-01,WA,all,owner occupier,all,total_exc_refi,3083.0,1200000000.0
+2019-12-01,WA,all,owner occupier,first home buyer,total_exc_refi,1190.0,414300000.0
 2020-01-01,ACT,all,all,first home buyer,total_exc_refi,187.0,84400000.0
 2020-01-01,ACT,all,investor,all,construction,0.0,0.0
 2020-01-01,ACT,all,investor,all,ext_refi,115.0,53000000.0
